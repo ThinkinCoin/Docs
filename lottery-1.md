@@ -34,18 +34,27 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 
         - “2-3-3-2” = match 2
 
-        - “1-2-1-2” = match 2  
-
+        - “1-2-1-2” = match 2
 
 
 
 **Lottery phases:**  
 
 
-Each full lottery session is completed every 6 hours. An example of a lottery session starting at 0 AM is below:  
+Each full lottery session is completed every 6 hours \(4 per day\), with the timings for each as below:
+
+4 AM - 10 AM \(SGT\)
+
+10 AM - 4 PM \(SGT\) 
+
+4 PM - 10 PM \(SGT\)  - **50,000 CAKE tokens are injected into this lottery draw every day.**
+
+10 PM - 4 AM \(SGT\) 
+
+An example of a lottery session starting at 4 PM is below:  
 
 
-**Phase 1 - Buy Tickets \(0 AM to 1:30 AM\)**
+**Phase 1 - Buy Tickets \(4 PM to 1:30 AM\)**
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
