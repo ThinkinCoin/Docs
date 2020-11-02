@@ -24,7 +24,7 @@ Each full lottery session will run for 2 hours.
 
 The bunnies at the bottom of the page.
 
-![](.gitbook/assets/screenshot-2020-10-22-at-6.02.10-pm.png)
+![](../../.gitbook/assets/screenshot-2020-10-22-at-6.02.10-pm.png)
 
 ## Are all ticket numbers unique?
 

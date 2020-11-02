@@ -12,7 +12,6 @@
 
 ---
 
-* [LOTTERY FAQ](lottery-faq.md)
 * [General FAQ](faq.md)
 
 ## Core Products
@@ -23,8 +22,8 @@
 * [SYRUP Pool](core-products/syrup-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
-* [Lottery Updated 10/29/2020](core-products/lottery-updated/README.md)
-  * [Lottery](core-products/lottery-updated/lottery.md)
+* [Lottery](core-products/lottery/README.md)
+  * [LOTTERY FAQ](core-products/lottery/lottery-faq.md)
 
 ## Tokenomics
 
