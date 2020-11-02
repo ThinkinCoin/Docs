@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PANCAKESWAP INTRO](README.md)
+* [PancakeSwap Intro](README.md)
 
 ## Exchange
 
