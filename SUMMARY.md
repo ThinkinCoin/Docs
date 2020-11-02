@@ -2,13 +2,6 @@
 
 * [PANCAKESWAP INTRO](README.md)
 
-## Products <a id="core-products"></a>
-
-* [Pools](core-products/pancakeswap-pools.md)
-* [SYRUP Pool](core-products/syrup-pool.md)
-* [Analytics](core-products/pancakeswap-analytics.md)
-* [Voting](core-products/voting.md)
-
 ## Exchange
 
 * [Exchange](exchange/pancakeswap-exchange.md)
@@ -19,12 +12,22 @@
 * [Farms](yield-farming/farms.md)
 * [How to Yield Farm on PancakeSwap](yield-farming/how-to-yield-farm-on-pancakeswap.md)
 
+## SYRUP Pools
+
+* [SYRUP Pool](syrup-pools/syrup-pool.md)
+
 ## Lottery
 
 ---
 
 * [Lottery](lottery-1.md)
 * [Lottery FAQ](lottery-faq.md)
+
+## Other Products <a id="core-products"></a>
+
+* [Liquidity Pools](core-products/pancakeswap-pools.md)
+* [Analytics](core-products/pancakeswap-analytics.md)
+* [Voting](core-products/voting.md)
 
 ## Guides & FAQs <a id="guides"></a>
 
