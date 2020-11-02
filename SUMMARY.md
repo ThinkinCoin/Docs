@@ -34,6 +34,7 @@
 
 * [CAKE](tokenomics/cake-updated-10-29-2020.md)
 * [SYRUP](tokenomics/syrup.md)
+* [Social Accounts & Communities](tokenomics/telegram.md)
 
 ## Guides & FAQs <a id="guides"></a>
 
