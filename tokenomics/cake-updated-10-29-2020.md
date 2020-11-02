@@ -1,8 +1,8 @@
-# CAKE - Updated 10/29/2020
+# CAKE
 
 
 
-![CAKE Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
+![CAKE Token](../.gitbook/assets/icon-square-512%20%281%29.png)
 
 \*\*\*\*
 

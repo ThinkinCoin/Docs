@@ -28,8 +28,7 @@
 
 ## Tokenomics
 
-* [CAKE - Updated 10/29/2020](tokenomics/cake-updated-10-29-2020/README.md)
-  * [CAKE](tokenomics/cake-updated-10-29-2020/untitled.md)
+* [CAKE](tokenomics/cake-updated-10-29-2020.md)
 * [SYRUP](tokenomics/syrup.md)
 
 ## Community / Social
