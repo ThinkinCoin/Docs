@@ -34,7 +34,6 @@
 
 * [CAKE](tokenomics/cake-updated-10-29-2020.md)
 * [SYRUP](tokenomics/syrup.md)
-* [Social Accounts & Communities](tokenomics/telegram.md)
 
 ## Guides & FAQs <a id="guides"></a>
 
@@ -42,6 +41,7 @@
 * [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
 * [How to use MetaMask on PancakeSwap](guides/untitled.md)
 * [Binance Academy Guide](guides/binance-academy-guide.md)
+* [Social Accounts & Communities](guides/telegram.md)
 
 ## Code
 
