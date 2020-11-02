@@ -54,24 +54,28 @@ Each full lottery session is completed every 6 hours \(4 per day\), with the tim
 An example of a lottery session starting at 4 PM is below:  
 
 
-**Phase 1 - Buy Tickets \(4 PM to 1:30 AM\)**
+**Phase 1 - Cooldown \(4 PM to 5 PM\)**
+
+You have 1 hour to buy tickets while the draw resets and previous winnings are claimed.
+
+**Phase 2 - Buy Tickets \(5 PM to 10 PM\)**
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
 * Users will receive a ticket \(comprised of 4 digits\) for each 10 CAKE paid.
 
-**Phase 2 - Lottery Draw! \(1:30 AM\)**
+**Phase 3 - Lottery Draw \(10pm\)**
 
 * The 4 winning lottery numbers are drawn and will appear on the page. 
 * Each participant’s winnings will be automatically calculated based on their ticket numbers and shown on the page.
 * Users can claim winnings if they have any.
 * Users will also be able to see the lottery results: How many users matched all 4 numbers, 3 numbers and 2 numbers. 
 
-**Phase 3 - Celebration and Sharing \(1:30 AM - 2 AM\)**
+**Next Phase begins**
 
 If you won, congrats! Share with your friends or in our community groups.
 
-The next lottery starts in 30 minutes!  
+The next lottery starts in 1 hour!  
   
 ****
 
