@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PancakeSwap Intro](README.md)
+* [Roadmap](roadmap.md)
 
 ## Exchange
 
