@@ -14,7 +14,7 @@
 
 * [General FAQ](faq.md)
 
-## Core Products
+## Products <a id="core-products"></a>
 
 * [Exchange](core-products/pancakeswap-exchange.md)
 * [Pools](core-products/pancakeswap-pools.md)
@@ -22,22 +22,18 @@
 * [SYRUP Pool](core-products/syrup-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
-* [Lottery](core-products/lottery.md)
-
----
-
-* [LOTTERY FAQ](lottery-faq.md)
 
 ## Tokenomics
 
 * [CAKE](tokenomics/cake-updated-10-29-2020.md)
 * [SYRUP](tokenomics/syrup.md)
 
-## Community / Social
+## Lottery
 
-* [Telegram Communities](community-social/telegram.md)
-* [Twitter](community-social/untitled.md)
-* [Blog \(Medium\)](community-social/blog-medium.md)
+---
+
+* [Lottery](lottery-1.md)
+* [Lottery FAQ](lottery-faq.md)
 
 ## Code
 

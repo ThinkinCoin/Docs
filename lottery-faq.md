@@ -1,4 +1,4 @@
-# LOTTERY FAQ
+# Lottery FAQ
 
 ## What if there are no winners?
 
