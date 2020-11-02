@@ -6,6 +6,7 @@
 
 * [Exchange](exchange/pancakeswap-exchange.md)
 * [How to Trade on the PancakeSwap Exchange](exchange/how-to-trade-on-the-pancakeswap-exchange.md)
+* [Liquidity Pools and Adding Liquidity](exchange/pancakeswap-pools.md)
 
 ## Yield Farming
 
@@ -26,7 +27,6 @@
 
 ## Other Products <a id="core-products"></a>
 
-* [Liquidity Pools](core-products/pancakeswap-pools.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
 

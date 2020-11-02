@@ -1,4 +1,4 @@
-# Liquidity Pools
+# Liquidity Pools and Adding Liquidity
 
 \*\*\*\*[**PancakeSwap pools** ](https://exchange.pancakeswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
 
