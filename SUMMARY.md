@@ -21,6 +21,7 @@
 ---
 
 * [Lottery](lottery-1.md)
+* [How to Take Part in the PancakeSwap Lottery](how-to-take-part-in-the-pancakeswap-lottery.md)
 * [Lottery FAQ](lottery-faq.md)
 
 ## Other Products <a id="core-products"></a>
