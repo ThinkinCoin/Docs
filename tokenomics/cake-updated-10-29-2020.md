@@ -19,7 +19,7 @@
 
 **Distribution:**
 
-* **Farmers -** 60% of the rewards per block \(30 CAKE\)
+* **Farmers -** 60% of the rewards per block \(15 CAKE\)
 * **SYRUP holders -** 40% of the rewards per block \(10 CAKE\)
 * **Farmers daily -** 450,000 CAKE \(based on 30k blocks per day\)
 * **SYRUP holders daily -** 300,000 CAKE \(based on 30k blocks per day\)
