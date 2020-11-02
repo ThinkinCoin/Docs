@@ -1,7 +1,5 @@
 # Roadmap
 
-![Comin&apos; up](.gitbook/assets/image.png)
-
 Ok so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
 
 #### **Full Site Rework**
@@ -30,6 +28,8 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
 * [ ] **NFT Ecosystem:** Mint, trade, breed, and more — all paid in CAKE
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
+
+![Comin&apos; up](.gitbook/assets/image.png)
 
 
 
