@@ -43,35 +43,31 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 
 Each full lottery session is completed every 6 hours \(4 per day\), with the timings for each as below:
 
-4 AM - 10 AM \(SGT\)
+5 AM - 11 AM \(SGT\)
 
-10 AM - 4 PM \(SGT\) 
+11 AM - 5 PM \(SGT\) 
 
-4 PM - 10 PM \(SGT\)  - **50,000 CAKE tokens are injected into this lottery draw every day.**
+5 PM - 11 PM \(SGT\)  - **50,000 CAKE tokens are injected into this lottery draw every day.**
 
-10 PM - 4 AM \(SGT\) 
+11 PM - 5 AM \(SGT\) 
 
-An example of a lottery session starting at 4 PM is below:  
+An example of a lottery session starting at 5 PM is below:  
 
 
-**Phase 1 - Cooldown \(4 PM to 5 PM\)**
-
-You have 1 hour to buy tickets while the draw resets and previous winnings are claimed.
-
-**Phase 2 - Buy Tickets \(5 PM to 10 PM\)**
+**Phase 1 - Buy Tickets \(5 PM to 10 PM\)**
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
 * Users will receive a ticket \(comprised of 4 digits\) for each 10 CAKE paid.
 
-**Phase 3 - Lottery Draw \(10pm\)**
+**Phase 2 - Lottery Draw! \(10 PM\)**
 
 * The 4 winning lottery numbers are drawn and will appear on the page. 
 * Each participant’s winnings will be automatically calculated based on their ticket numbers and shown on the page.
 * Users can claim winnings if they have any.
 * Users will also be able to see the lottery results: How many users matched all 4 numbers, 3 numbers and 2 numbers. 
 
-**Next Phase begins**
+**Phase 3 - Celebration and Sharing \(10 PM - 11PM\)**
 
 If you won, congrats! Share with your friends or in our community groups.
 
