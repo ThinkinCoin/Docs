@@ -23,6 +23,8 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 * Match 2 numbers in the exact order = win or split 10% of the pot.
 * Burn remaining 10% of the pot.
 
+Please note - in the event that no participants were able to match 3 numbers on any draw, the 20% allocated to winners will then be burned accordingly.
+
 For example, if the final 4 winning numbers are “1-9-3-2”:  
 
 
@@ -40,7 +42,7 @@ For example, if the final 4 winning numbers are “1-9-3-2”:
 **Lottery phases:**  
 
 
-Each full lottery session is completed every 2 hours. An example of a lottery session starting at 0 AM is below:  
+Each full lottery session is completed every 6 hours. An example of a lottery session starting at 0 AM is below:  
 
 
 **Phase 1 - Buy Tickets \(0 AM to 1:30 AM\)**
