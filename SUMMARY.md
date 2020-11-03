@@ -35,6 +35,7 @@
 
 * [CAKE](tokenomics/cake-updated-10-29-2020.md)
 * [SYRUP](tokenomics/syrup.md)
+* [Controlling CAKE supply](tokenomics/controlling-cake-supply.md)
 
 ## Guides & FAQs <a id="guides"></a>
 
