@@ -2,7 +2,9 @@
 
 ![SYRUP Token](../.gitbook/assets/icon-square-512.png)
 
-**Stack your CAKE with SYRUP.** 
+**Ticker:** SYRUP
+
+**Contract address:** [https://bscscan.com/token/0x009cf7bc57584b7998236eff51b98a168dcea9b0](https://bscscan.com/token/0x009cf7bc57584b7998236eff51b98a168dcea9b0)
 
 **40% of CAKE emissions** are distributed to SYRUP holders every block. Users can claim these rewards and re-invest them.
 

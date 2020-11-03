@@ -21,7 +21,7 @@ Syrup Pool will be split into two sections: Core and Community.
 * Core will be initially selected by the PancakeSwap team.
 * Community will be projects that pass a community vote on the governance portal.
 
-Note that any project will be able to distribute tokens via Syrup Pool but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
+Note that any project will be able to distribute tokens via Syrup Pool, but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
 
 ![Image for post](https://miro.medium.com/max/3200/0*MkaAxlEeCfLlaoMt)
 
