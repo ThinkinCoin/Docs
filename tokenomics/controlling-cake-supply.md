@@ -4,11 +4,11 @@
 
 There's currently no hard cap on the supply of CAKE token, making it an inflationary token. 
 
-Community members often call for a cap, but there's a big reason we don't anticipate setting a hard cap in the near future:
+Community members often point to this as a cause for concern, and while the chefs certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
 
 > CAKE's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity \(LP fees etc. would remain\)._
 
-So what are the ways CAKE's supply can be limited, to counter inflation? 
+So what are the other ways CAKE's supply is limited, to counter inflation? 
 
 ## How CAKE supply is reduced without a hard cap
 
