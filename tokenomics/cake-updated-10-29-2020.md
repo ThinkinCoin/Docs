@@ -25,7 +25,7 @@
 | Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
 | :--- | ---: | ---: | ---: |
 | Farmers | 60% | 15 | 450,000 |
-| SYRUP holders | 40% | 10 | 300,000 |
+| Syrup pools | 40% | 10 | 300,000 |
 
 ### **Other Deflationary Mechanics:**
 
