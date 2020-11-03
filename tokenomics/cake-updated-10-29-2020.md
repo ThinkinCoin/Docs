@@ -19,12 +19,12 @@
   * Rewards burned per block: **-15 CAKE**
 * Effective Daily emission \(Based on 30k blocks per day\): **750,000 CAKE per day**
 
-**Effective Distribution after burns\*:**
+**Effective Distribution:**
 
 * Farmers: 60% of the rewards per block: **15 CAKE**
+  * Daily: **450,000 CAKE** \(based on 30k blocks per day\)
 * SYRUP holders: 40% of the rewards per block: **10 CAKE**
-* Farmers daily: **450,000 CAKE** \(based on 30k blocks per day\)
-* SYRUP holders daily: **300,000 CAKE** \(based on 30k blocks per day\)
+  * Daily: **300,000 CAKE** \(based on 30k blocks per day\)
 
 **Other Deflationary Mechanics:**
 
