@@ -20,7 +20,7 @@ By reducing the amount of CAKE made per block, we slow inflation. This has alrea
 
 ### Deflationary mechanisms
 
-Regular token burns \([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)\) are built into many of PancakeSwap's products, with more on the way. Check the [CAKE Tokenomics](cake-updated-10-29-2020.md) page for further details on present and upcoming deflationary mechanisms.
+Regular token burns \([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)\) are built into many of PancakeSwap's products \(like a 10% burn of CAKE spent on lottery tickets\), with more on the way. Check the[ CAKE Tokenomics](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/~/drafts/-MLCAaz-v7WnAJotY987/tokenomics/cake-updated-10-29-2020#other-deflationary-mechanics) page for details on present and upcoming deflationary mechanisms.
 
 
 

@@ -12,7 +12,7 @@
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
-#### **Emission rate:**
+### **Emission rate:**
 
 |  | Emission/block \(CAKE\) | Emmission/day \(CAKE\) |
 | :--- | ---: | ---: |
@@ -20,14 +20,14 @@
 | Burned | -15 | -450,000 |
 | **Effective Emission** | **25** | **750,000** |
 
-#### Distribution:
+### Distribution:
 
 | Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
 | :--- | ---: | ---: | ---: |
 | Farmers | 60% | 15 | 450,000 |
 | SYRUP holders | 40% | 10 | 300,000 |
 
-**Other Deflationary Mechanics:**
+### **Other Deflationary Mechanics:**
 
 * [x] **9.09%** of CAKE harvested from farms is sent to the dev address, then burned
 * [x] **10%** of CAKE spent on lottery tickets is burned
