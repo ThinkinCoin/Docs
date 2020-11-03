@@ -16,7 +16,7 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 
 * [x] **SYRUP Staking**
 * [x] **Core SYRUP Pools**
-* [ ] **Community SYRUP Pools:** Host BSC community project SYRUP Pools and support with 0.1-0.2x CAKE farms
+* [x] **Community SYRUP Pools:** Host BSC community project SYRUP Pools and support with 0.1-0.2x CAKE farms
 
 #### Other products
 
@@ -24,7 +24,7 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [x] **Analytics \(core feature\)**
 * [x] **Voting \(core feature\)**
 * [ ] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] L**ending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
+* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
 * [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
 * [ ] **NFT Ecosystem:** Mint, trade, breed, and more — all paid in CAKE
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
