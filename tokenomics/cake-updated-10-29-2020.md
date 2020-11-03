@@ -12,19 +12,20 @@
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
-**Emission rate:**
+#### **Emission rate:**
 
-* Effective rewards per block: **25 CAKE** 
-  * Rewards produced per block: **+40 CAKE** 
-  * Rewards burned per block: **-15 CAKE**
-* Effective Daily emission \(Based on 30k blocks per day\): **750,000 CAKE per day**
+|  | Emission/block \(CAKE\) | Emmission/day \(CAKE\) |
+| :--- | ---: | ---: |
+| Emission | 40 | 1,200,000 |
+| Burned | -15 | -450,000 |
+| **Effective Emission** | **25** | **750,000** |
 
-**Effective Distribution:**
+#### Distribution:
 
-* Farmers: 60% of the rewards per block: **15 CAKE**
-  * Daily: **450,000 CAKE** \(based on 30k blocks per day\)
-* SYRUP holders: 40% of the rewards per block: **10 CAKE**
-  * Daily: **300,000 CAKE** \(based on 30k blocks per day\)
+| Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
+| :--- | ---: | ---: | ---: |
+| Farmers | 60% | 15 | 450,000 |
+| SYRUP holders | 40% | 10 | 300,000 |
 
 **Other Deflationary Mechanics:**
 
