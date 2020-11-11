@@ -1,3 +1,7 @@
+---
+description: '"Don''t call it a roadmap"'
+---
+
 # Roadmap
 
 Ok so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
@@ -5,18 +9,18 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 #### **Full Site Rework**
 
 * [ ] New homepage
-* [ ] Harvest all & stake all
+* [x] Harvest all & stake all
 * [ ] Personal dashboard
 * [ ] Improved UX
 * [ ] Faster site
 * [ ] Mobile friendly
 * [ ] New navigation system
 
-#### **SYRUP**
+#### **CAKE Staking \(Syrup Pools\)**
 
-* [x] **SYRUP Staking**
-* [x] **Core SYRUP Pools**
-* [x] **Community SYRUP Pools:** Host BSC community project SYRUP Pools and support with 0.1-0.2x CAKE farms
+* [x] **CAKE Staking**
+* [x] **Core Pools**
+* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
 
 #### Other products
 
