@@ -28,6 +28,7 @@
 
 ## Other Products <a id="core-products"></a>
 
+* [IFO \(Initial Farm Offering\)](core-products/ifo-initial-farm-offering.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
 

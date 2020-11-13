@@ -27,7 +27,7 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [x] **Lottery \(core feature\)**
 * [x] **Analytics \(core feature\)**
 * [x] **Voting \(core feature\)**
-* [ ] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
+* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
 * [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
 * [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
 * [ ] **NFT Ecosystem:** Mint, trade, breed, and more — all paid in CAKE
