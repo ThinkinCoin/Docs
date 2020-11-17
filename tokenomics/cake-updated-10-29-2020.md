@@ -29,9 +29,11 @@
 
 ### **Other Deflationary Mechanics:**
 
+At present,
+
 * [x] **9.09%** of CAKE harvested from farms is sent to the dev address, then burned
 * [x] **10%** of CAKE spent on lottery tickets is burned
-* [ ] CAKE raised in IFOs will be burned \(Coming soon, may change\)
+* [x] **100% of** CAKE raised in IFOs is burned
 
 {% hint style="info" %}
 The burning process is currently manual. [View burn transactions here](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
