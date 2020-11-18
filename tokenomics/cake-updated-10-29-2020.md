@@ -1,7 +1,5 @@
 # CAKE
 
-
-
 ![CAKE Token](../.gitbook/assets/icon-square-512%20%281%29.png)
 
 \*\*\*\*
@@ -14,7 +12,7 @@
 
 ### **Emission rate:**
 
-|  | Emission/block \(CAKE\) | Emmission/day \(CAKE\) |
+|  | Emission/block \(CAKE\) | Emission/day \(CAKE\) |
 | :--- | ---: | ---: |
 | Emission | 40 | 1,200,000 |
 | Burned | -15 | -450,000 |
