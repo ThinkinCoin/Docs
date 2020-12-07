@@ -28,13 +28,13 @@ The bunnies at the bottom of the page.
 
 ## Are all ticket numbers unique?
 
-There are a total of 10,000 different ticket combinations. This may be adjusted later based on the number of participants. 
+There are a total of 38,416 different ticket combinations. This may be adjusted later based on the number of participants. 
 
 Ticket numbers are given out randomly. As such, there is a small chance that a user receives the same 4 digits in two tickets held.
 
-## What if someone buys all 10,000 number combinations?
+## What if someone buys all of the number combinations?
 
-This is close to impossible as ticket numbers are given out randomly. One participant is able to acquire 2 tickets that have the same 4 digits, so they would have a very hard time acquiring all 10,000 unique combinations. 
+This is close to impossible as ticket numbers are given out randomly. One participant is able to acquire 2 tickets that have the same 4 digits, so they would have a very hard time acquiring all of the unique combinations. 
 
 ## What transaction fee will I pay for buying a ticket?
 

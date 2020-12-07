@@ -8,9 +8,9 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 
 #### **Full Site Rework**
 
-* [ ] New homepage
+* [x] New homepage
 * [x] Harvest all & stake all
-* [ ] Personal dashboard
+* [x] Personal dashboard
 * [ ] Improved UX
 * [ ] Faster site
 * [ ] Mobile friendly
