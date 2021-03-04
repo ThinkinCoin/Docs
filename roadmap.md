@@ -29,7 +29,7 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [ ] **NFT Ecosystem:** Mint, trade, breed, and more — all paid in CAKE
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
 
-![Comin&apos; up](.gitbook/assets/image.png)
+![Comin&apos; up](.gitbook/assets/image%20%281%29.png)
 
 
 
