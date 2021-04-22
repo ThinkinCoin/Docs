@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
+* [Think in Coin Swap Intro](README.md)
 * [FAQ](faq.md)
 
 ## Core Products
