@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Think in Coin Swap Intro](README.md)
+* [Presentation](README.md)
+* [Think in Coin Project](think-in-coin-project.md)
 * [FAQ](faq.md)
 
 ## Core Products
