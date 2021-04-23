@@ -22,8 +22,11 @@
 
 * [Genesis - phase 0](presentation/genesis-phase-0.md)
 * [Mining](presentation/mining.md)
+* [Smart Contracts](presentation/smart-contracts.md)
 * [Games](presentation/games.md)
 * [NFT](presentation/nft.md)
+* [dAPPs and Services](presentation/dapps-and-services.md)
+* [Storage](presentation/storage.md)
 * [DeFi](presentation/defi.md)
 * [Exchanges](presentation/exchanges/README.md)
   * [CEX](presentation/exchanges/cex.md)
@@ -36,6 +39,7 @@
   * [Flexible Savings](presentation/financial-resources/flexible-savings.md)
   * [Liquidity Provider](presentation/financial-resources/swap-and-liquidity.md)
   * [Savings blocked](presentation/financial-resources/savings-blocked.md)
+  * [Market \(Leverage\)](presentation/financial-resources/market-leverage.md)
   * [Lending \(Rental\)](presentation/financial-resources/lending-rental.md)
 
 ## Core Products
@@ -46,27 +50,28 @@
 * [Voting](core-products/voting.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 
-## Tokenomics
-
-* [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
-
 ## Guides
 
 * [Binance Academy Guide](guides/binance-academy-guide.md)
 * [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
 * [How to use MetaMask on PancakeSwap](guides/untitled.md)
 
+## Tokenomics
+
+* [CAKE Basics](tokenomics/untitled.md)
+* [SYRUP \(Staking\)](tokenomics/syrup.md)
+* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+
+## Useful information
+
+* [Untitled](useful-information/untitled.md)
+
 ## Community / Social
 
 * [Twitter](community-social/untitled.md)
 * [Telegram](community-social/discord.md)
 * [Blog \(Medium\)](community-social/blog-medium.md)
-
-## Code
-
-* [Github](code/github.md)
+* [Github](community-social/github.md)
 
 ## Wiki
 

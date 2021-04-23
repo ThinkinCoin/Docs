@@ -8,23 +8,7 @@ This step is crucial to take the user immediately to their level of content, thu
 
 Each form will be used for each specific user profile group. Each level of knowledge has specific questions on the topic and a minimum score required to enter the level.
 
-###  
-
-### 
-
-### Market \(Leverage\) 
-
-### 
-
-### Smart Contracts 
-
-### dAPPs and Services 
-
-### Storage
-
 ![](https://lh5.googleusercontent.com/JWsCCT-cuLDWjo-X0iWolpwh14JH_YdbdfSlMUMr6LcR_WOTHDVm8eJVd20tLMI3nEcrKJmRTT58LKLh2qrtIXyOJV6qITf0OlIUHxAtwQpwhTjHTRuLVqK3CJoFHy4X7Q)
-
-
 
 ## Vocabulary
 
@@ -39,8 +23,6 @@ Fundamental Analysis
 Operation Platforms
 
 Technology Employment
-
-Useful information
 
 Wealth Management
 
