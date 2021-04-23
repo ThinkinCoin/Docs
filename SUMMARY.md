@@ -2,7 +2,6 @@
 
 * [Presentation](README.md)
 * [Think in Coin Project](think-in-coin-project.md)
-* [FAQ](faq.md)
 
 ## Core Products
 
@@ -33,4 +32,10 @@
 ## Code
 
 * [Github](code/github.md)
+
+## Wiki
+
+---
+
+* [FAQ](faq.md)
 

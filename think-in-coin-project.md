@@ -1,16 +1,16 @@
-
 # Think in Coin Project
+
+## Think in Coin Project
 
 =======
 
-# Think in Coin Project
+## Think in Coin Project
 
-
-## Obteniendo superpoderes
+### Obteniendo superpoderes
 
 Convertirse en un superhéroe es un proceso bastante sencillo:
 
-```
+```text
 $ give me super-powers
 ```
 
