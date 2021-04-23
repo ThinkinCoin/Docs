@@ -1,11 +1,15 @@
 # Table of contents
 
 * [Think in Coin Project](README.md)
+* [Untitled](untitled.md)
 
 ## How to use it
 
 * [Getting Start](how-to-use-it/first-steps/README.md)
   * [how can you use](how-to-use-it/first-steps/use.md)
+  * [Know the risks](how-to-use-it/first-steps/risk.md)
+  * [Prices](how-to-use-it/first-steps/prices.md)
+  * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
 
 ## Core Products
 

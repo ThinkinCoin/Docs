@@ -1,12 +1,8 @@
----
-description: What is this ?
----
-
 # Think in Coin Project
 
 PancakeSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.
 
-![](.gitbook/assets/masthead-twitter.png)
+![](.gitbook/assets/logotipo-tic_horiz.png)
 
 **The Dream?**
 
