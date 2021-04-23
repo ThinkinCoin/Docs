@@ -59,6 +59,16 @@
     * [What is Ethereum?](networks/ethereum-erc/ether-introduction/what-is-ethereum.md)
   * [The Ethereum network](networks/ethereum-erc/the-ethereum-network/README.md)
     * [Connecting to the Network](networks/ethereum-erc/the-ethereum-network/connecting-to-the-network.md)
+    * [Test Networks](networks/ethereum-erc/the-ethereum-network/test-networks.md)
+  * [Mining](networks/ethereum-erc/mining.md)
+  * [Contracts and Transactions](networks/ethereum-erc/contracts-and-transactions/README.md)
+    * [Account Types, Gas, and Transactions](networks/ethereum-erc/contracts-and-transactions/account-types-gas-and-transactions.md)
+    * [Contracts](networks/ethereum-erc/contracts-and-transactions/contracts.md)
+    * [Accessing Contracts and Transactions](networks/ethereum-erc/contracts-and-transactions/accessing-contracts-and-transactions.md)
+    * [Mix](networks/ethereum-erc/contracts-and-transactions/mix/README.md)
+      * [Project Editor](networks/ethereum-erc/contracts-and-transactions/mix/project-editor.md)
+      * [Scenarios Editor](networks/ethereum-erc/contracts-and-transactions/mix/scenarios-editor.md)
+      * [State Viewer](networks/ethereum-erc/contracts-and-transactions/mix/state-viewer.md)
 
 ## Core Products
 
