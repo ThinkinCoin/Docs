@@ -42,7 +42,5 @@
 
 ## Wiki
 
----
-
-* [FAQ](faq.md)
+* [FAQ](wiki/faq.md)
 
