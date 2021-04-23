@@ -21,7 +21,9 @@
 ## Presentation
 
 * [Genesis - phase 0](presentation/genesis-phase-0.md)
-* [Mining](presentation/mining.md)
+* [Mining](presentation/mining/README.md)
+  * [PoW - Proof of Work](presentation/mining/pow-proof-of-work.md)
+  * [PoS - Proof of Stake](presentation/mining/pos-proof-of-stake.md)
 * [Smart Contracts](presentation/smart-contracts.md)
 * [Games](presentation/games.md)
 * [NFT](presentation/nft.md)
