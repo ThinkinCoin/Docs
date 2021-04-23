@@ -44,3 +44,7 @@
 
 * [FAQ](wiki/faq.md)
 
+---
+
+* [Organograma de conteudo](guide.md)
+
