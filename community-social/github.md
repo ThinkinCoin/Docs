@@ -1,6 +1,4 @@
 # Github
 
-{% embed url="https://github.com/thinkincoin" %}
-
-
+[https://github.com/pancakeswap](https://github.com/pancakeswap)
 
