@@ -9,7 +9,13 @@
   * [Know the risks](how-to-use-it/first-steps/risk.md)
   * [Prices](how-to-use-it/first-steps/prices.md)
   * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
-* [Content Organization Chart](how-to-use-it/content-organization-chart.md)
+* [Courses metodology](how-to-use-it/content-courses-chart/README.md)
+  * [User Knowledge Screening Form](how-to-use-it/content-courses-chart/user-knowledge-screening-form.md)
+
+## Presentation and Screening
+
+* [Genesis - phase 0](presentation-and-screening/genesis-phase-0.md)
+* [Mining](presentation-and-screening/mining.md)
 
 ## Core Products
 
