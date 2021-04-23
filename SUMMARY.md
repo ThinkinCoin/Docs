@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Think in Coin Project](README.md)
-* [Untitled](untitled.md)
 
 ## How to use it
 
