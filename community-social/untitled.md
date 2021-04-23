@@ -1,4 +1,8 @@
 # Twitter
 
-[https://twitter.com/PancakeSwap](https://twitter.com/PancakeSwap)
+![](../.gitbook/assets/twitter.png)
+
+{% embed url="https://twitter.com/thinkincoin" %}
+
+
 
