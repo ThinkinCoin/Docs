@@ -1,4 +1,4 @@
-# A Guide to PancakeSwap \| Binance Academy
+# A Guide to Think in Coin \| Binance Academy
 
 **TL;DR** 
 

@@ -5,6 +5,7 @@
 ## How to use it
 
 * [Getting Start](how-to-use-it/first-steps/README.md)
+  * [Untitled](how-to-use-it/first-steps/untitled.md)
   * [how can you use](how-to-use-it/first-steps/use.md)
   * [Know the risks](how-to-use-it/first-steps/risk.md)
   * [Prices](how-to-use-it/first-steps/prices.md)
@@ -45,6 +46,20 @@
   * [Market \(Leverage\)](presentation/financial-resources/market-leverage.md)
   * [Lending \(Rental\)](presentation/financial-resources/lending-rental.md)
 
+## Networks
+
+* [Binance Smart Chain \(BSC\)](networks/binance-smart-chain-bsc.md)
+* [Ethereum \(ERC\)](networks/ethereum-erc/README.md)
+  * [Ether - Introduction](networks/ethereum-erc/ether-introduction/README.md)
+    * [The Ethereum Foundation](networks/ethereum-erc/ether-introduction/the-ethereum-foundation.md)
+    * [Community](networks/ethereum-erc/ether-introduction/community.md)
+    * [History of Ethereum](networks/ethereum-erc/ether-introduction/history-of-ethereum.md)
+    * [A platform for decentralized apps](networks/ethereum-erc/ether-introduction/a-platform-for-decentralized-apps.md)
+    * [The Homestead Release](networks/ethereum-erc/ether-introduction/the-homestead-release.md)
+    * [What is Ethereum?](networks/ethereum-erc/ether-introduction/what-is-ethereum.md)
+  * [The Ethereum network](networks/ethereum-erc/the-ethereum-network/README.md)
+    * [Connecting to the Network](networks/ethereum-erc/the-ethereum-network/connecting-to-the-network.md)
+
 ## Core Products
 
 * [Exchange](core-products/pancakeswap-exchange.md)
@@ -55,8 +70,8 @@
 
 ## Guides
 
-* [A Guide to PancakeSwap \| Binance Academy](guides/binance-academy-guide.md)
-* [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
+* [A Guide to Think in Coin \| Binance Academy](guides/binance-academy-guide.md)
+* [How to use Think in Coin with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
 * [Use MetaMask For Binance Smart Chain](guides/metamask-bsc-chain-add.md)
 
 ## Tokenomics
