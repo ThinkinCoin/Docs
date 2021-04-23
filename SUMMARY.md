@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Think in Coin Project](README.md)
+* [Organograma de conteudo](untitled.md)
 
 ## How to use it
 
@@ -43,8 +44,4 @@
 ## Wiki
 
 * [FAQ](wiki/faq.md)
-
----
-
-* [Organograma de conteudo](guide.md)
 
