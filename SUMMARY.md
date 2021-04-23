@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Think in Coin Project](README.md)
-* [Organograma de conteudo](cronogram.md)
+* [Content Organization Chart](content-organization-chart.md)
 
 ## How to use it
 
