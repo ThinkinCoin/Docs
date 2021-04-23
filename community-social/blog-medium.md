@@ -1,4 +1,6 @@
 # Blog \(Medium\)
 
-[https://medium.com/@pancakeswap](https://medium.com/@pancakeswap)
+{% embed url="https://thinkincoin.medium.com" %}
+
+
 
