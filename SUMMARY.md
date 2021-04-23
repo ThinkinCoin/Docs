@@ -69,6 +69,11 @@
       * [Project Editor](networks/ethereum-erc/contracts-and-transactions/mix/project-editor.md)
       * [Scenarios Editor](networks/ethereum-erc/contracts-and-transactions/mix/scenarios-editor.md)
       * [State Viewer](networks/ethereum-erc/contracts-and-transactions/mix/state-viewer.md)
+      * [Transaction Explorer](networks/ethereum-erc/contracts-and-transactions/mix/transaction-explorer.md)
+      * [JavaScript console](networks/ethereum-erc/contracts-and-transactions/mix/javascript-console.md)
+      * [Transaction debugger](networks/ethereum-erc/contracts-and-transactions/mix/transaction-debugger.md)
+      * [Dapps deployment](networks/ethereum-erc/contracts-and-transactions/mix/dapps-deployment.md)
+      * [Code Editor](networks/ethereum-erc/contracts-and-transactions/mix/code-editor.md)
 
 ## Core Products
 
