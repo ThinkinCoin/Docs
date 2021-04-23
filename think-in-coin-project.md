@@ -1,12 +1,10 @@
-
 # Think in Coin Project
-
 
 ## Obteniendo superpoderes
 
 Convertirse en un superhéroe es un proceso bastante sencillo:
 
-```
+```text
 $ give me super-powers
 ```
 
@@ -22,3 +20,4 @@ Una vez que seas lo suficientemente fuerte, salva el mundo:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
+
