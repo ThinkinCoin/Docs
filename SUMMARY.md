@@ -10,28 +10,33 @@
   * [Prices](how-to-use-it/first-steps/prices.md)
   * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
 * [Courses metodology](how-to-use-it/content-courses-chart/README.md)
-  * [Untitled](how-to-use-it/content-courses-chart/untitled.md)
   * [Presentation](how-to-use-it/content-courses-chart/presentation.md)
   * [Registration](how-to-use-it/content-courses-chart/registration.md)
   * [Content categories](how-to-use-it/content-courses-chart/content-categories.md)
   * [Monetization](how-to-use-it/content-courses-chart/monetization.md)
   * [Mentoring / Advice](how-to-use-it/content-courses-chart/mentoring-advice.md)
 * [User Knowledge Screening Form](how-to-use-it/user-knowledge-screening-form.md)
+* [Screening](how-to-use-it/screening.md)
 
-## Presentation and Screening
+## Presentation
 
-* [Genesis - phase 0](presentation-and-screening/genesis-phase-0.md)
-* [Mining](presentation-and-screening/mining.md)
-
-## Financial resources
-
-* [Launchpads \(Airdrops\)](financial-resources/launchpads-airdrops.md)
-* [Fixed Savings](financial-resources/fixed-savings.md)
-* [Flexible Savings](financial-resources/flexible-savings.md)
-* [Savings blocked](financial-resources/savings-blocked.md)
-* [Swap and Liquidity](financial-resources/swap-and-liquidity.md)
-* [Arbitrage](financial-resources/arbitrage.md)
-* [Lending \(Rental\)](financial-resources/lending-rental.md)
+* [Genesis - phase 0](presentation/genesis-phase-0.md)
+* [Mining](presentation/mining.md)
+* [Games](presentation/games.md)
+* [NFT](presentation/nft.md)
+* [DeFi](presentation/defi.md)
+* [Exchanges](presentation/exchanges/README.md)
+  * [CEX](presentation/exchanges/cex.md)
+  * [DEX](presentation/exchanges/dex.md)
+  * [Derivatives and Options Futures](presentation/exchanges/derivatives-and-options-futures.md)
+* [Financial Resources](presentation/financial-resources/README.md)
+  * [Arbitrage](presentation/financial-resources/arbitrage.md)
+  * [Launchpads \(Airdrops\)](presentation/financial-resources/launchpads-airdrops.md)
+  * [Fixed Savings](presentation/financial-resources/fixed-savings.md)
+  * [Flexible Savings](presentation/financial-resources/flexible-savings.md)
+  * [Liquidity Provider](presentation/financial-resources/swap-and-liquidity.md)
+  * [Savings blocked](presentation/financial-resources/savings-blocked.md)
+  * [Lending \(Rental\)](presentation/financial-resources/lending-rental.md)
 
 ## Core Products
 

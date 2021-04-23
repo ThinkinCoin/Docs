@@ -10,17 +10,11 @@ Each form will be used for each specific user profile group. Each level of knowl
 
 ###  
 
-### DEX 
-
-### CEX 
-
-### Derivatives and Options Futures 
+### 
 
 ### Market \(Leverage\) 
 
-### Game 
-
-### DEFI 
+### 
 
 ### Smart Contracts 
 
