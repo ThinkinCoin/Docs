@@ -1,6 +1,10 @@
 
 # Think in Coin Project
 
+=======
+
+# Think in Coin Project
+
 
 ## Obteniendo superpoderes
 
@@ -22,3 +26,4 @@ Una vez que seas lo suficientemente fuerte, salva el mundo:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
+
