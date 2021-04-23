@@ -10,7 +10,13 @@
   * [Prices](how-to-use-it/first-steps/prices.md)
   * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
 * [Courses metodology](how-to-use-it/content-courses-chart/README.md)
-  * [User Knowledge Screening Form](how-to-use-it/content-courses-chart/user-knowledge-screening-form.md)
+  * [Untitled](how-to-use-it/content-courses-chart/untitled.md)
+  * [Presentation](how-to-use-it/content-courses-chart/presentation.md)
+  * [Registration](how-to-use-it/content-courses-chart/registration.md)
+  * [Content categories](how-to-use-it/content-courses-chart/content-categories.md)
+  * [Monetization](how-to-use-it/content-courses-chart/monetization.md)
+  * [Mentoring / Advice](how-to-use-it/content-courses-chart/mentoring-advice.md)
+* [User Knowledge Screening Form](how-to-use-it/user-knowledge-screening-form.md)
 
 ## Presentation and Screening
 
