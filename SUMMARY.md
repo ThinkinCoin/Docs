@@ -2,6 +2,23 @@
 
 * [Think in Coin Project](README.md)
 
+## Useful information
+
+* [extra content](useful-information/extra/README.md)
+  * [Vocabulary](useful-information/extra/vocabulary.md)
+  * [Types of Investor / Operator](useful-information/extra/types-of-investor-operator.md)
+  * [Technical analysis](useful-information/extra/technical-analysis.md)
+  * [Fundamental Analysis](useful-information/extra/fundamental-analysis.md)
+  * [Operation Platforms](useful-information/extra/operation-platforms.md)
+  * [Technology Employment](useful-information/extra/technology-employment.md)
+  * [Wealth Management](useful-information/extra/wealth-management.md)
+  * [Costs, fees and taxes](useful-information/extra/costs-fees-and-taxes.md)
+  * [Operational Setups](useful-information/extra/operational-setups.md)
+  * [Operational Tactics and Strategies](useful-information/extra/operational-tactics-and-strategies.md)
+  * [Market Events](useful-information/extra/market-events.md)
+  * [Blockchain](useful-information/extra/blockchain.md)
+  * [Curiosities and Historical Facts](useful-information/extra/curiosities-and-historical-facts.md)
+
 ## How to use it
 
 * [Getting Start](how-to-use-it/first-steps/README.md)
@@ -61,10 +78,6 @@
 * [CAKE Basics](tokenomics/untitled.md)
 * [SYRUP \(Staking\)](tokenomics/syrup.md)
 * [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
-
-## Useful information
-
-* [Untitled](useful-information/untitled.md)
 
 ## Community / Social
 

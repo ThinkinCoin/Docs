@@ -10,33 +10,3 @@ Each form will be used for each specific user profile group. Each level of knowl
 
 ![](https://lh5.googleusercontent.com/JWsCCT-cuLDWjo-X0iWolpwh14JH_YdbdfSlMUMr6LcR_WOTHDVm8eJVd20tLMI3nEcrKJmRTT58LKLh2qrtIXyOJV6qITf0OlIUHxAtwQpwhTjHTRuLVqK3CJoFHy4X7Q)
 
-## Vocabulary
-
-![](https://lh5.googleusercontent.com/JWsCCT-cuLDWjo-X0iWolpwh14JH_YdbdfSlMUMr6LcR_WOTHDVm8eJVd20tLMI3nEcrKJmRTT58LKLh2qrtIXyOJV6qITf0OlIUHxAtwQpwhTjHTRuLVqK3CJoFHy4X7Q)
-
-Types of Investor / Operator
-
-Technical analysis
-
-Fundamental Analysis
-
-Operation Platforms
-
-Technology Employment
-
-Wealth Management
-
-Costs, fees and taxes
-
-Operational Setups
-
-Operational Tactics and Strategies
-
-Market Events
-
-Blockchain
-
-Curiosities and Historical Facts
-
-![](https://lh5.googleusercontent.com/JWsCCT-cuLDWjo-X0iWolpwh14JH_YdbdfSlMUMr6LcR_WOTHDVm8eJVd20tLMI3nEcrKJmRTT58LKLh2qrtIXyOJV6qITf0OlIUHxAtwQpwhTjHTRuLVqK3CJoFHy4X7Q)
-
