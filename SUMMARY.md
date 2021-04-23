@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Think in Coin Project](README.md)
-* [Content Organization Chart](content-organization-chart.md)
 
 ## How to use it
 
@@ -10,6 +9,7 @@
   * [Know the risks](how-to-use-it/first-steps/risk.md)
   * [Prices](how-to-use-it/first-steps/prices.md)
   * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
+* [Content Organization Chart](how-to-use-it/content-organization-chart.md)
 
 ## Core Products
 
