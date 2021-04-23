@@ -57,7 +57,7 @@
 
 * [A Guide to PancakeSwap \| Binance Academy](guides/binance-academy-guide.md)
 * [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
-* [Use MetaMask For Binance Smart Chain](guides/untitled.md)
+* [Use MetaMask For Binance Smart Chain](guides/metamask-bsc-chain-add.md)
 
 ## Tokenomics
 
