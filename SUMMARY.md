@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Presentation](README.md)
-* [Think in Coin Project](think-in-coin-project.md)
+* [Think in Coin Project](README.md)
+
+## How to use it
+
+* [Getting Start](how-to-use-it/first-steps/README.md)
+  * [how can you use](how-to-use-it/first-steps/use.md)
 
 ## Core Products
 
