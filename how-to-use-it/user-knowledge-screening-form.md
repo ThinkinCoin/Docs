@@ -8,19 +8,7 @@ This step is crucial to take the user immediately to their level of content, thu
 
 Each form will be used for each specific user profile group. Each level of knowledge has specific questions on the topic and a minimum score required to enter the level.
 
-### Launchpads \(Airdrops\) 
-
-### Fixed income investments 
-
-### Flexible Savings 
-
-### Savings blocked 
-
-### Swap and Liquidity 
-
-### Arbitration 
-
-### Lending \(Rental\) 
+###  
 
 ### DEX 
 

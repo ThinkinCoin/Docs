@@ -23,6 +23,16 @@
 * [Genesis - phase 0](presentation-and-screening/genesis-phase-0.md)
 * [Mining](presentation-and-screening/mining.md)
 
+## Financial resources
+
+* [Launchpads \(Airdrops\)](financial-resources/launchpads-airdrops.md)
+* [Fixed Savings](financial-resources/fixed-savings.md)
+* [Flexible Savings](financial-resources/flexible-savings.md)
+* [Savings blocked](financial-resources/savings-blocked.md)
+* [Swap and Liquidity](financial-resources/swap-and-liquidity.md)
+* [Arbitrage](financial-resources/arbitrage.md)
+* [Lending \(Rental\)](financial-resources/lending-rental.md)
+
 ## Core Products
 
 * [Exchange](core-products/pancakeswap-exchange.md)
