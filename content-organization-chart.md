@@ -17,34 +17,42 @@ Learning context content strictly aimed at the active crypto market with all its
 
 ### Anticipation
 
+{% hint style="info" %}
 Tip: Do something to HOLD students' attention. Find a very good book, use a short video clip, or sing a song that is related to this lesson plan. This is how you make the student enjoy learning.
+{% endhint %}
 
 1. Direct instruction 
 2. Guided practice 
 3. Understanding check
 
-Tip: Ask lots of questions during the course to confirm that students are following all of this new and interesting information.Prática independente
+Tip: Ask lots of questions during the course to confirm that students are following all of this new and interesting information.
 
-1. Closing
+### Independent practice
 
-Tip: This is the perfect opportunity to present the exclusive content on the site that generate monetization.
+
 
 ### Differentiated instruction
 
+{% hint style="info" %}
 Tip: Remember that students learn in different ways. With that in mind, use different teaching techniques to serve as many students as possible on the course.
+{% endhint %}
 
 1. Visual learners 
 2. Hearing learners 
-3. Synesthetic or self-taught learners 
+3. Synesthetec or self-taught learners 
 4. Operator Apprentices \(Trader\) 
 5. Investor Apprentices 
 6. Advanced students
 
 ### Materials and resources
 
-Tip: When choosing complementary materials and resources for your lesson plan \(books, videos, etc.\), try to put yourself in the students' shoes. Find resources that IMPROVE and turn the class into an inviting learning experience for the class.Materiais instrucionais:
+{% hint style="info" %}
+Tip: When choosing complementary materials and resources for your lesson plan \(books, videos, etc.\), try to put yourself in the students' shoes. Find resources that IMPROVE and turn the class into an inviting learning experience for the class
+{% endhint %}
 
-1. Resources
+#### Instructional materials
+
+#### Resources
 
 ### Assessment
 
