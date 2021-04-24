@@ -1,6 +1,8 @@
 # Buy BNB as Gas
 
+{% hint style="info" %}
 This feature is available after v2.1.0
+{% endhint %}
 
 ## Why do we need this feature? <a id="why-do-we-need-this-feature"></a>
 

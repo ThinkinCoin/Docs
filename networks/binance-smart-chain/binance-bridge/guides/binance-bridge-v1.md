@@ -102,7 +102,9 @@ Please make sure that:
 * The address is the one you control in the destinatioin blockchain.
 * The amount is above the minimium requirement
 
-​![img](https://lh5.googleusercontent.com/ihIwK_QBDhupvPnUp57wvr62DgfQy7nSKh2hR3ZU5maAb-4Af3VhBeMHhD1q4jEqnKYcle6fq8YJ8yoWvSg-wUe2xz8tPnE4DA3qpUw2YJvGyqqqZrjnBSNUYNEogE4bXXOyd4eW).
+​.
+
+![img](https://lh5.googleusercontent.com/ihIwK_QBDhupvPnUp57wvr62DgfQy7nSKh2hR3ZU5maAb-4Af3VhBeMHhD1q4jEqnKYcle6fq8YJ8yoWvSg-wUe2xz8tPnE4DA3qpUw2YJvGyqqqZrjnBSNUYNEogE4bXXOyd4eW)
 
 * Confirm the swap amount.
 
