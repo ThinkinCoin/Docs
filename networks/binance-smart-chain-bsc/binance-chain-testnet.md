@@ -38,3 +38,9 @@ If you wish to test Binance Chain features, you could transfer BNB cross-chain w
 https://docs.binance.org/smart-chain/wallet/math.html#transfer-bnb-from-bsc-to-bc
 ```
 
+## Testnet Explorer
+
+{% embed url="https://testnet-explorer.binance.org/" %}
+
+
+
