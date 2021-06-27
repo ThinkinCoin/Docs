@@ -2,6 +2,50 @@
 
 * [Think in Coin Project](README.md)
 
+## How to use it
+
+* [Getting Start](how-to-use-it/first-steps/README.md)
+  * [how can you use](how-to-use-it/first-steps/use.md)
+  * [Know the risks](how-to-use-it/first-steps/risk.md)
+  * [Prices](how-to-use-it/first-steps/prices.md)
+  * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
+* [Courses metodology](how-to-use-it/content-courses-chart/README.md)
+  * [Presentation](how-to-use-it/content-courses-chart/presentation.md)
+  * [Registration](how-to-use-it/content-courses-chart/registration.md)
+  * [Content categories](how-to-use-it/content-courses-chart/content-categories.md)
+  * [Monetization](how-to-use-it/content-courses-chart/monetization.md)
+  * [Mentoring / Advice](how-to-use-it/content-courses-chart/mentoring-advice.md)
+* [User Knowledge Screening Form](how-to-use-it/user-knowledge-screening-form.md)
+* [Screening](how-to-use-it/screening.md)
+
+## TIC Project
+
+* [Presentation](tic-project/presentation/README.md)
+  * [Genesis - phase 0](tic-project/presentation/genesis-phase-0.md)
+  * [Mining](tic-project/presentation/mining/README.md)
+    * [PoW - Proof of Work](tic-project/presentation/mining/pow-proof-of-work.md)
+    * [PoS - Proof of Stake](tic-project/presentation/mining/pos-proof-of-stake.md)
+  * [Smart Contracts](tic-project/presentation/smart-contracts.md)
+  * [Games](tic-project/presentation/games.md)
+  * [NFT](tic-project/presentation/nft.md)
+  * [dAPPs and Services](tic-project/presentation/dapps-and-services.md)
+  * [Storage](tic-project/presentation/storage.md)
+  * [Exchanges](tic-project/presentation/exchanges/README.md)
+    * [CEX](tic-project/presentation/exchanges/cex.md)
+    * [DEX](tic-project/presentation/exchanges/dex.md)
+    * [Derivatives and Options Futures](tic-project/presentation/exchanges/derivatives-and-options-futures.md)
+  * [Financial Resources](tic-project/presentation/financial-resources/README.md)
+    * [DeFi](tic-project/presentation/financial-resources/defi/README.md)
+      * [Liquidity Provider](tic-project/presentation/financial-resources/defi/swap-and-liquidity.md)
+    * [CeFi](tic-project/presentation/financial-resources/cefi/README.md)
+      * [Savings blocked](tic-project/presentation/financial-resources/cefi/savings-blocked.md)
+      * [Fixed Savings](tic-project/presentation/financial-resources/cefi/fixed-savings.md)
+      * [Flexible Savings](tic-project/presentation/financial-resources/cefi/flexible-savings.md)
+      * [Launchpads \(Airdrops\)](tic-project/presentation/financial-resources/cefi/launchpads-airdrops.md)
+    * [Arbitrage](tic-project/presentation/financial-resources/arbitrage.md)
+    * [Market \(Leverage\)](tic-project/presentation/financial-resources/market-leverage.md)
+    * [Lending \(Rental\)](tic-project/presentation/financial-resources/lending-rental.md)
+
 ## Networks
 
 * [Ethereum \(ERC\)](networks/ethereum-erc/README.md)
@@ -198,49 +242,6 @@
     * [Create an NFT-based Game](networks/fantom-network/tutorials/create-an-nft-based-game.md)
     * [How to use Ledger Nano with Fantom](networks/fantom-network/tutorials/how-to-use-ledger-nano-with-fantom.md)
     * [Registry of verified contracts](networks/fantom-network/tutorials/registry-of-verified-contracts.md)
-
-## How to use it
-
-* [Getting Start](how-to-use-it/first-steps/README.md)
-  * [how can you use](how-to-use-it/first-steps/use.md)
-  * [Know the risks](how-to-use-it/first-steps/risk.md)
-  * [Prices](how-to-use-it/first-steps/prices.md)
-  * [Terms of use](how-to-use-it/first-steps/terms-of-use.md)
-* [Courses metodology](how-to-use-it/content-courses-chart/README.md)
-  * [Presentation](how-to-use-it/content-courses-chart/presentation.md)
-  * [Registration](how-to-use-it/content-courses-chart/registration.md)
-  * [Content categories](how-to-use-it/content-courses-chart/content-categories.md)
-  * [Monetization](how-to-use-it/content-courses-chart/monetization.md)
-  * [Mentoring / Advice](how-to-use-it/content-courses-chart/mentoring-advice.md)
-* [User Knowledge Screening Form](how-to-use-it/user-knowledge-screening-form.md)
-* [Screening](how-to-use-it/screening.md)
-
-## Presentation
-
-* [Genesis - phase 0](presentation/genesis-phase-0.md)
-* [Mining](presentation/mining/README.md)
-  * [PoW - Proof of Work](presentation/mining/pow-proof-of-work.md)
-  * [PoS - Proof of Stake](presentation/mining/pos-proof-of-stake.md)
-* [Smart Contracts](presentation/smart-contracts.md)
-* [Games](presentation/games.md)
-* [NFT](presentation/nft.md)
-* [dAPPs and Services](presentation/dapps-and-services.md)
-* [Storage](presentation/storage.md)
-* [Exchanges](presentation/exchanges/README.md)
-  * [CEX](presentation/exchanges/cex.md)
-  * [DEX](presentation/exchanges/dex.md)
-  * [Derivatives and Options Futures](presentation/exchanges/derivatives-and-options-futures.md)
-* [Financial Resources](presentation/financial-resources/README.md)
-  * [DeFi](presentation/financial-resources/defi/README.md)
-    * [Liquidity Provider](presentation/financial-resources/defi/swap-and-liquidity.md)
-  * [CeFi](presentation/financial-resources/cefi/README.md)
-    * [Savings blocked](presentation/financial-resources/cefi/savings-blocked.md)
-    * [Fixed Savings](presentation/financial-resources/cefi/fixed-savings.md)
-    * [Flexible Savings](presentation/financial-resources/cefi/flexible-savings.md)
-    * [Launchpads \(Airdrops\)](presentation/financial-resources/cefi/launchpads-airdrops.md)
-  * [Arbitrage](presentation/financial-resources/arbitrage.md)
-  * [Market \(Leverage\)](presentation/financial-resources/market-leverage.md)
-  * [Lending \(Rental\)](presentation/financial-resources/lending-rental.md)
 
 ## Core Products
 
