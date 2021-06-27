@@ -4,8 +4,6 @@
 
 ## Networks
 
-* [Huobi HECO Chain](networks/huobi-heco-chain/README.md)
-  * [Huobi Open Platform](networks/huobi-heco-chain/huobi-open-platform.md)
 * [Harmony ONE](networks/harmony-one/README.md)
   * [general](networks/harmony-one/general/README.md)
     * [Introduction](networks/harmony-one/general/introduction/README.md)
@@ -125,6 +123,8 @@
       * [Customer Support](networks/binance-smart-chain/binance-bridge/support/customer-support.md)
       * [Best Practice](networks/binance-smart-chain/binance-bridge/support/best-practice.md)
       * [Common Issue](networks/binance-smart-chain/binance-bridge/support/common-issue.md)
+* [Huobi HECO Chain](networks/huobi-heco-chain/README.md)
+  * [Huobi Open Platform](networks/huobi-heco-chain/huobi-open-platform.md)
 * [Ethereum \(ERC\)](networks/ethereum-erc/README.md)
   * [Ether - Introduction](networks/ethereum-erc/ether-introduction/README.md)
     * [The Ethereum Foundation](networks/ethereum-erc/ether-introduction/the-ethereum-foundation.md)
