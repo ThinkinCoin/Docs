@@ -4,6 +4,9 @@
 
 ## Networks
 
+* [Polygon Network](networks/polygon-network/README.md)
+  * [About - Polygon](networks/polygon-network/about-polygon.md)
+  * [Technology](networks/polygon-network/technology.md)
 * [Harmony ONE](networks/harmony-one/README.md)
   * [general](networks/harmony-one/general/README.md)
     * [Introduction](networks/harmony-one/general/introduction/README.md)
