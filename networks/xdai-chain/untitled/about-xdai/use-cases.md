@@ -1,0 +1,8 @@
+# Use Cases
+
+## Use Cases
+
+Stability, speed, security and scalability opens the door for many exciting applications and new use cases.
+
+Here are the articles in this section:[Peer-to-Peer PaymentsFast and efficient stable payments are possible with xDai](https://www.xdaichain.com/about-xdai/use-cases/peer-to-peer-payments)[DeFi \(Decentralized Finance\)](https://www.xdaichain.com/about-xdai/use-cases/defi-decentralized-finance)[Community CurrenciesProviding a blockchain solution to enable local trade and exchange.](https://www.xdaichain.com/about-xdai/use-cases/community-currencies)[Prediction MarketsStable prices remove fluctuating transaction fees, allow for more participation](https://www.xdaichain.com/about-xdai/use-cases/stable-platform-for-smart-contracts)[Blockchain GamesA more responsive UX, micropayments, and predictable cross-chain interactions are achievable in a stable ecosystem.](https://www.xdaichain.com/about-xdai/use-cases/platform-for-blockchain-games)[NFT Mint and Transfer](https://www.xdaichain.com/about-xdai/use-cases/nft-mint-and-transfer)[Digital Voting](https://www.xdaichain.com/about-xdai/use-cases/digital-voting)[DAO GovernanceOn-chain voting and management for Decentralized Autonomous Organizations](https://www.xdaichain.com/about-xdai/use-cases/dao-governance)[B2B & Enterprise Applications](https://www.xdaichain.com/about-xdai/use-cases/b2b-and-enterprise-applications)[Cryptocurrency for Events & ConferencesEasy onboarding, usage and rewards for event participants \(even crypto novices!\)](https://www.xdaichain.com/about-xdai/use-cases/cryptocurrency-for-events-and-conferences)
+
