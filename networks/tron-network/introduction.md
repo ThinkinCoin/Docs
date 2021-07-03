@@ -1,14 +1,20 @@
-# TRON Network
+# Introduction
 
-## Introduction
+## What is TRON
 
 TRON is a robust blockchain ecosystem designed and developed by blockchain developers over the world, which follows the philosophy of "Decentralize the Web". There are multiple kinds of products involved in TRON ecosystem, including public chain, wallet client, decentralized applications\(DAPPs\), Etc. These products are closely related to each other, and together, this supports the stability of the whole ecosystem.
+
+## TRON Public Chain
+
+### 1.Overview
 
 TRON public chain is a decentralized blockchain network implemented based on TRON protocol, performs as the core of TRON ecosystem, launched on Jun 25th 2018. Many things can be done through TRON public chain, including token assets issuing, DAPP deployment and running, stake and vote for gains, assets transferring, Etc.
 
 TRON public chain is one of the most secure public chain systems at present. The reason it is outstanding is that the blockchain runs in a decentralized network environment, in which creation and storage of the data do not rely on specific individuals or organizations, and the data is ensured to be never changed by cryptography.
 
 TRON public chain has better operational efficiency and stability than most public chains due to a well-designed architecture and code.
+
+### 2.Present
 
 TRON ecosystem has set itself a 10-year roadmap in the original [TRON whitepaper](https://dn-peiwo-web.qbox.me/Tron-Whitepaper-0822-V17.pdf):
 
@@ -34,9 +40,13 @@ Odyssey is an essential stage of the large-scale practical development of the TR
 
 The development of TRON public chain has reached the stage of the Great Voyage.
 
+### 3. Architecture
+
 TRON public chain realizes the design of highly abstract modularisation. It separates the system into several core modules, including underlying network, data storage, consensus, transaction actuator, TVM, and application layer interface.
 
 [TRON Public chain architecture](https://dn-peiwo-web.qbox.me/Design_Book_of_TRON_Architecture1.4.pdf)
+
+#### Underlying network
 
 The underlying network module is a set of customizable and efficient message response systems, built based on Netty, a high-performance network framework.
 
@@ -46,11 +56,15 @@ Node discovery is implemented based on the Kademlia algorithm. It meets the requ
 
 The node communication module uses TCP for data transfer. Based on this, a flexible and extensible message registration response mechanism is designed on the business layer.
 
+#### Data storage
+
 We have designed a data storage module that can support fast rollback and an in-memory database KhaosDB for fast blockchain switching. These reflect the ultimate pursuit of the performance of the TRON public chain.
 
 We also published ChainBase, a database product for the blockchain system, based on the excellent interface design of the data storage module. It supports the switching of data engines between LevelDB and RocksDB as well as the customized development of data engines, only needed to implement the corresponding interface set.
 
 [ChainBase](https://github.com/tronprotocol/chainbase)
+
+#### Consensus
 
 TRON public chain currently adopts DPOS as the consensus algorithm, which enables a maximum 2000 TPS.
 
@@ -62,9 +76,11 @@ We have designed an excellent on-chain governance mechanism that attributes to t
 
 A proposal can include adjustments of blockchain parameters, the opening of new features, etc. Proposal mechanism can prevent a node from multiple restarts during a blockchain update, which improves the efficiency of the consensus and provides a channel for community supervision.
 
-[Super Representatives]()
+[Super Representatives](https://developers.tron.network/docs/super-representatives)
 
 [TRON consensus mechanism DPOS](https://tronprotocol.github.io/documentation-zh/introduction/dpos/)
+
+#### On-chain governance & incentive mechanism
 
 Through the decentralized election, TRON public chain produces two types of roles: Super Representative \(SR\) and Super Representative Partner\(SRP\), and they participate in the on-chain governance. An SR/ SRP can initiate votings for specific proposals, and other SRs/ SRPs can give their opinions to the proposals through voting, which ensures the blockchain governance is entirely decentralized.
 
@@ -72,11 +88,17 @@ TRON public chain has a precise and efficient incentive mechanism that can promo
 
 [Incentive Mechanism](doc:%E8%B6%85%E7%BA%A7%E4%BB%A3%E8%A1%A8%E5%92%8C%E6%9C%BA%E5%88%B6)
 
+#### TaPoS
+
 Double spend attack has always been the issue that needs to be treated strictly in the history of the public blockchain. TRON has the TaPos mechanism to defend this kind of attacks, which improves the safety of TRON public chain.
+
+#### TRC10 token support
 
 TRC10 token is based on system contracts, can be issued simply on TRON public chain. TRC10 standard significantly reduces the cost of token circulation, as system contract transactions only consume bandwidth. TRC10 token transactions can be done in the decentralized exchange built in TRON public chain.
 
-[TRC10]()
+[TRC10](https://developers.tron.network/docs/trc10)
+
+#### TVM and smart contracts
 
 TRON Virtual Machine\(TVM\) implemented in TRON public chain is fully compatible with the Ethereum Virtual Machine\(EVM\). Not only does TVM reduce the learning cost for developers, due to the born advantage of DPOS consensus algorithm of TRON public chain, but also improves operational efficiency and reduces the cost.
 
@@ -86,6 +108,8 @@ We have made many optimizations on TVM to reduce the cost of the operational cos
 
 [Getting started to DAPP development](https://en.developers.tron.network/docs/introduction)
 
+#### Resource model
+
 TRON public chain has an excellent resource model. We have designed a dynamic adjustment mechanism for resource model parameters, which is useful for feedback regulation. The brief explanation of this mechanism is the number of processing transactions is positively correlated with the resource fee.
 
 Every user has a certain amount of free resource quota.
@@ -94,9 +118,17 @@ Users can freeze their TRX to acquire free bandwidth/energy and a corresponding 
 
 [Resource model](https://cn.developers.tron.network/docs/%E8%B5%84%E6%BA%90%E6%A8%A1%E5%9E%8B)
 
+## Core applications in TRON ecosystem
+
+### 1.Overview
+
 TRON public chain is a large-scale distributed operating system, having tens of thousands of nodes running on service, and terminals are all over the world. Like Office to Microsoft, the power of TRON public chain cannot be separated from the support of application software, and the prosperity of TRON's ecosystem needs community developers to work together.
 
 There are many brilliant software in TRON ecosystem at present.
+
+### 2.Wallet client
+
+#### Wallet-Cli
 
 Wallet-Cli is the official wallet client maintained by TRON Foundation.
 
@@ -106,11 +138,15 @@ Wallet-Cli is also an excellent code implementation to show the interactive mode
 
 [Wallet-Cli](https://github.com/tronprotocol/wallet-cli)
 
+#### TronLink
+
 TronLink is an outstanding TRON wallet dedicated to providing users with complete functions, convenient experience, secure funding options, and the most applications.
 
 [TronLink official website](https://www.tronlink.org/)
 
 [Tronlink intergration](https://en.developers.tron.network/docs/tronlink%E9%9B%86%E6%88%90)
+
+### 3.Blockchain explorer
 
 tronscan.org is the first blockchain explorer based on TRON.
 
@@ -120,9 +156,13 @@ tronscan.org also has a built-in web wallet and a DEX based on the Bancor protoc
 
 [Tronscan](https://tronscan.org/#/)
 
+### 4.DAPP
+
 TRON public chain has attracted tens of thousands of community developers to join in the development, deployment, and running of DAPPs on the blockchain, for the reason of its high performance, safety, and low cost.
 
 As of Q1 of 2020, the total number of DAPPs on the TRON public chain has exceeded 700, with more than 230,000 users.
+
+### 5.Testnet
 
 **Shasta test net**
 
@@ -147,8 +187,8 @@ Nile test net is generally used to test new features. The code version of the Ni
 * Event API: [https://event.nileex.io/](https://event.nileex.io/)
 * Public full node:
 
-   47.252.19.181  
-   47.252.3.238
+  47.252.19.181  
+  47.252.3.238
 
 * Data backup: [http://47.90.243.177/](http://47.90.243.177/)
 
@@ -169,6 +209,8 @@ Tronnex is used for the test of sun-network.
   47.252.85.13
 
 * Data backup: [http://47.252.81.247](http://47.252.81.247/)
+
+## TRON's ecosystem growth
 
 The healthy growth of TRON's ecosystem can never be separated from ecological products. The products under development and testing are listed here:
 
@@ -195,6 +237,8 @@ The healthy growth of TRON's ecosystem can never be separated from ecological pr
 * The mixture of PBFT and DPOS
 
   It is getting ready for the coming cross-chain implementation.
+
+## TRON community products
 
 We have countless star products from the community:
 
@@ -223,6 +267,8 @@ We have countless star products from the community:
 
   TronLink has more than 300,000 users at present.
 
+## The future of TRON
+
 We are always adhering to the concept of "haste makes waste" over the past two years from the day we began to build the ecosystem. Looking back, we did many things. At present, our core public chain product "java-tron" is keeping in stable operation. Besides, many brilliant products and ideas, like wallet clients, blockchain explorers, side chains based on Sun network, different kinds of DAPPs and our outstanding community developers are the most important part which forms TRON ecosystem today.
 
 In the future, we will adhere to the value concept of "decentralized the web" and keep on going in the following areas:
@@ -232,22 +278,4 @@ In the future, we will adhere to the value concept of "decentralized the web" an
 * A safer and faster TVM
 * Integrate with other products like BTFS, bring more application scenarios to DAPPs
 * Exploration in DeFi area
-
-![](https://cdn.readme.io/img/book-icon.svg?1625079683213) Updated 2 months ago
-
-* [Table of Contents]()
-  *  [What is TRON]()
-  *  [TRON Public Chain]()
-    * [1.Overview]()
-    * [2.Present]()
-    * [3. Architecture]()
-  *  [Core applications in TRON ecosystem]()
-    * [1.Overview]()
-    * [2.Wallet client]()
-    * [3.Blockchain explorer]()
-    * [4.DAPP]()
-    * [5.Testnet]()
-  *  [TRON's ecosystem growth]()
-  *  [TRON community products]()
-  *  [The future of TRON]()
 
