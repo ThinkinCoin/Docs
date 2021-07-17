@@ -1,6 +1,6 @@
 # Think in Coin Project
 
-it is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage.
+it is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage..
 
 > " With great power comes great responsibility" \(Uncle Phill\)
 
