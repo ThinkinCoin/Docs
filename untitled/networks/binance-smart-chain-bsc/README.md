@@ -1,2 +1,0 @@
-# binance-smart-chain-bsc
-
