@@ -1,0 +1,4 @@
+# tutorials
+
+Here are the articles in this section:[Set up Metamask](set-up-metamask.md)[Set up Metamask \(testnet\)](set-up-metamask-testnet.md)[Deploy a Smart Contract](deploy-a-smart-contract.md)[Create a Fixed-cap Asset](create-a-fixed-cap-asset.md)[Create a Variable-cap Asset](https://docs.thinkincoin.com/networks/fantom-network/tutorials/create-a-variable-cap-asset)[Create a Local Test Network](https://docs.thinkincoin.com/networks/fantom-network/tutorials/create-a-local-test-network)[Create an NFT-based Game](https://docs.thinkincoin.com/networks/fantom-network/tutorials/create-an-nft-based-game)[How to use Ledger Nano with Fantom](https://docs.thinkincoin.com/networks/fantom-network/tutorials/how-to-use-ledger-nano-with-fantom)[Registry of verified contracts](https://docs.thinkincoin.com/networks/fantom-network/tutorials/registry-of-verified-contracts)
+

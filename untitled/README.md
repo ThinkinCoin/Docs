@@ -1,22 +1,8 @@
-# Think in Coin Project
+# Harmony ONE
 
-| description |
-| :--- |
-| This is all the documentation made available for the project. |
+Welcome to the Harmony Docs. This central resource contains an introduction to Harmony, our features and rationale, and resources for developers and network participants. It is divided in three main sections:
 
-## Develop Documents
-
-it is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage.
-
-> " With great power comes great responsibility" \(Uncle Phill\)
-
-### **The Dream?**
-
-FREEDOM, pure and full
-
-The release of the bonds of an oppressive and corrupt financial system that has the indecency to dictate the rules of how and how much you can profit from your investments.
-
-THIS TIME IS OVER.
-
-Now you must be your own bank. Enjoy it.
+* **🎶** General - we describe the basics of Harmony and cover the technical features and our ecosystem, including grants and showcases.
+* **🏗️** Developers - we share all the tools and documentation for developers to deploy smart contracts and build applications on Harmony.
+* **🌏** Network - we provide guides for participating in the Harmony network as a validator, delegator and token holder.
 
