@@ -4,13 +4,6 @@
 
 ## Think in Coin Project
 
----
-
-* [community-social](community-social/README.md)
-  * [Twitter](community-social/twitter.md)
-  * [Telegram](community-social/telegram.md)
-  * [Blog \(Medium\)](community-social/blog-medium.md)
-
 ## Networks
 
 ---
@@ -221,4 +214,8 @@
       * [Issuing TRC-20 tokens tutorial](untitled-1/trx-and-trc-token/trc-20/issuing-trc-20-tokens-tutorial.md)
       * [TRC-20 Contract Interaction](untitled-1/trx-and-trc-token/trc-20/trc-20-contract-interaction.md)
     * [TRC-721](untitled-1/trx-and-trc-token/trc-721.md)
+
+## Community <a id="social"></a>
+
+* [Github](social/github.md)
 
