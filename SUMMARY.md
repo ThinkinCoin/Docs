@@ -2,8 +2,6 @@
 
 * [Develop Documents](README.md)
 
-## Think in Coin Project
-
 ## Networks
 
 ---
