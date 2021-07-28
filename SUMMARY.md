@@ -218,4 +218,5 @@
 ## Community <a id="social"></a>
 
 * [Github](social/github.md)
+* [Telegram DEVs](social/telegram-devs.md)
 
