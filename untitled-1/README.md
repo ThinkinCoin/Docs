@@ -1,4 +1,4 @@
-# TRON Network
+# TRON Network \(TRC\)
 
 TRON is a robust blockchain ecosystem designed and developed by blockchain developers over the world, which follows the philosophy of "Decentralize the Web". There are multiple kinds of products involved in TRON ecosystem, including public chain, wallet client, decentralized applications\(DAPPs\), Etc. These products are closely related to each other, and together, this supports the stability of the whole ecosystem.
 

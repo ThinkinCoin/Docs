@@ -43,7 +43,7 @@
       * [Blockchain Tests](untitled-2/contracts-and-transactions/ethereum-tests/blockchain-tests.md)
       * [State Tests](untitled-2/contracts-and-transactions/ethereum-tests/state-tests.md)
     * [Web3 Base Layer Services](untitled-2/contracts-and-transactions/web3-base-layer-services.md)
-* [TRON Network](untitled-1/README.md)
+* [TRON Network \(TRC\)](untitled-1/README.md)
   * [Introduction](untitled-1/introduction.md)
   * [Tron Protocol](untitled-1/tron-protocol/README.md)
     * [Account](untitled-1/tron-protocol/account.md)
