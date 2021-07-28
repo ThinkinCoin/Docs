@@ -1,2 +1,0 @@
-# Launchpads \(Airdrops\)
-
