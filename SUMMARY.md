@@ -48,7 +48,7 @@
 
 ## Governance
 
-* [Governance](governance/how-it-works/README.md)
+* [How it Works](governance/how-it-works/README.md)
   * [MKR Token](governance/how-it-works/mkr-token.md)
   * [Auditing Executive Spells](governance/how-it-works/auditing-executive-spells.md)
   * [Curated Governance Tools](governance/how-it-works/curated-governance-tools.md)

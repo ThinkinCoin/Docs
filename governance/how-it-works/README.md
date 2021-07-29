@@ -1,4 +1,4 @@
-# Governance
+# How it Works
 
 Learn about Decision-Making and Communication among the Stakeholders of MakerDAO
 
