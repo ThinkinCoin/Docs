@@ -87,6 +87,5 @@ id: proposal id
 
 [List Proposals TronWeb API](https://developers.tron.network/reference#listproposals)
 
-[Get Proposal by ID Full Node HTTP API](https://developers.tron.network/reference#walletgetproposalbyid)  
-
+[Get Proposal by ID Full Node HTTP API](https://developers.tron.network/reference#walletgetproposalbyid)
 

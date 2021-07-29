@@ -11,7 +11,7 @@ This guide will show you how to use your Ledger Nano S hardware wallet with Bina
 In order to use a Ledger device with Binance Chain and Binance DEX, you will need:
 
 * Supported web browser: Chrome \(including Brave, Vivaldi, and other Chromium variants\), Opera or Firefox
-* Access to the Binance Chain web wallet \(https://binance.org/unlock\) using your web browser
+* Access to the Binance Chain web wallet \([https://binance.org/unlock\](https://binance.org/unlock\)\) using your web browser
 * Initialized Ledger Nano S device with firmware version 1.5.5 or newer
 * The Ledger Live application installed on your computer for app installation
 
@@ -20,14 +20,14 @@ In order to use a Ledger device with Binance Chain and Binance DEX, you will nee
 1\) Plug in and unlock your Ledger device, open Ledger Live on your computer, then open the "Manager" panel.
 
 2\) Within the "Manager" pane, type in "Binance" in the search field.  
- Locate "Binance Chain", then click on "Install".
+Locate "Binance Chain", then click on "Install".
 
 3\) The Binance app will now install on your Ledger device.
 
 4\) When you see a popup message indicating "Successfully installed Binance Chain", the installation is complete.
 
 5\) Check that the "Binance Chain" app is shown on your Ledger device dashboard as in the photo below.  
- If it is, the installation has been successful.
+If it is, the installation has been successful.
 
 ## Setup/Login Instructions
 
@@ -40,10 +40,10 @@ Click "Unlock wallet" on the top right navigation bar.
 Choose "Ledger Device" and verify your address.
 
 Choose one address to use for this session and click on "Confirm".  
- You will then be redirected to the Trading Interface.
+You will then be redirected to the Trading Interface.
 
 For your security, please read the information displayed in the following popup and confirm that the address shown on your Ledger device matches the one shown on-screen.  
- Press the right button on your device to confirm that the address matches \(You must do this to continue\).
+Press the right button on your device to confirm that the address matches \(You must do this to continue\).
 
 ## How to send Binance Chain crypto assets <a id="how-to-send-binance-chain-crypto-assets"></a>
 

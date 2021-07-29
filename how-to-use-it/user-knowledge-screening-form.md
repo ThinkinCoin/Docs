@@ -4,7 +4,7 @@ Kanban application form of knowledge acquired from the user with phases to be co
 
 This step is crucial to take the user immediately to their level of content, thus avoiding getting boring for users with a little more knowledge.
 
-### Methodology
+## Methodology
 
 Each form will be used for each specific user profile group. Each level of knowledge has specific questions on the topic and a minimum score required to enter the level.
 

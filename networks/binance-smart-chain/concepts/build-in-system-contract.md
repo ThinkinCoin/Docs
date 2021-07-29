@@ -1,6 +1,6 @@
 # Build-in System Contract
 
-### Disclaimer <a id="disclaimer"></a>
+## Disclaimer <a id="disclaimer"></a>
 
 The software and related documentation are under active development, all subject to potential future change without notification and not ready for production use. The code and security audit have not been fully completed and not ready for any bug bounty. We advise you to be careful and experiment on the network at your own risk. Stay safe out there.
 
@@ -19,7 +19,7 @@ GitHub Implementation link: [https://github.com/binance-chain/bsc-genesis-contra
 | TokenManager Contract | 0x0000000000000000000000000000000000001008 | [tokenmanager](https://docs.binance.org/smart-chain/system-smart-contract/tokenmanager.abi) |
 | CrossChain Contract | 0x0000000000000000000000000000000000002000 | [crosschain](https://docs.binance.org/smart-chain/system-smart-contract/crosschain.abi) |
 
-### On-Chain Light Client <a id="on-chain-light-client"></a>
+## On-Chain Light Client <a id="on-chain-light-client"></a>
 
 The purpose of cross-chain interoperability is to enable one blockchain to function as a light-client of another. Since Binance Chain is using a classical Byzantine Fault Tolerant consensus algorithm, light-client verification is cheap and easy: all we have to do is check validator signatures on the latest block, and verify a Merkle proof of the state.
 
@@ -31,7 +31,7 @@ Ethereum platform supports stateless precompiled contract implemented with golan
 
 ![img](https://docs.binance.org/assets/lightclient.png)
 
-#### Precompile Contract <a id="precompile-contract"></a>
+### Precompile Contract <a id="precompile-contract"></a>
 
 **Validate Tendermint Header**
 
@@ -41,7 +41,7 @@ This contract implements tendermint header verification algorithm. The input par
 
 This contract implements a [Tendermint merkle proof verification algorithm](https://github.com/tendermint/tendermint/blob/master/docs/architecture/adr-026-general-merkle-proof.md).
 
-#### Solidity Contract <a id="solidity-contract"></a>
+### Solidity Contract <a id="solidity-contract"></a>
 
 **Tendermint Light Client Contract**
 
@@ -93,7 +93,7 @@ function **verifyMerkleProof**\(int64 height, byte\[\] key, byte\[\] value, byte
 
 **verifyMerkleProof** reassembles user parameters and call the the above precompiled contract to validate the proof.
 
-### Other Build-in System Contract <a id="other-build-in-system-contract"></a>
+## Other Build-in System Contract <a id="other-build-in-system-contract"></a>
 
 * **TokenHub Contract**
 

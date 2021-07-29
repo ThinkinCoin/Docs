@@ -11,7 +11,7 @@
 
 ## Implementation
 
-Learning context content strictly aimed at the active crypto market with all its variants of use and application. The environment must be welcoming for all levels of knowledge, both for users already active in the market and for new users with no knowledge and who seek to learn how to participate in the market. 
+Learning context content strictly aimed at the active crypto market with all its variants of use and application. The environment must be welcoming for all levels of knowledge, both for users already active in the market and for new users with no knowledge and who seek to learn how to participate in the market.
 
 ## Procedure
 
@@ -28,8 +28,6 @@ Tip: Do something to HOLD students' attention. Find a very good book, use a shor
 Tip: Ask lots of questions during the course to confirm that students are following all of this new and interesting information.
 
 ### Independent practice
-
-
 
 ### Differentiated instruction
 

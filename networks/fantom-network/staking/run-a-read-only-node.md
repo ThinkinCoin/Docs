@@ -6,8 +6,7 @@
 
 ## What are we going to do? <a id="what-are-we-going-to-do"></a>
 
-1. 2. 3. 
-## Launch Cloud Instance <a id="launch-cloud-instance"></a>
+1. 1. 1. **Launch Cloud Instance**
 
 You can either run a node on your own hardware or use a cloud provider. We would recommend choosing one of the big cloud providers, e.g. Amazon AWS.
 

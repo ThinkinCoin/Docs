@@ -58,7 +58,7 @@ That’s it for test execution. To read more about command line options you may 
 
 Now let’s see what test cases are available.
 
-## Test Cases[¶]()
+## Test Cases[¶](using-testeth.md)
 
 Almost each test case has its filler file available at `/webthree-umbrella/libethereum/test`
 

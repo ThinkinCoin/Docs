@@ -1,6 +1,6 @@
 # Blockchain Tests
 
-## Blockchain Tests[¶]()
+## Blockchain Tests[¶](blockchain-tests.md)
 
 Found in `/BlockTests`, the blockchain tests aim is to test the basic verification of a blockchain.
 

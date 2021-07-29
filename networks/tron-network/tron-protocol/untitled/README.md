@@ -50,7 +50,7 @@ function transferContractTx() {
     const amount = 1;
 
     let transaction = TransactionUtils.buildTransferTransaction(token, fromAddress, toAddress, amount);
-  
+
     let signedTransaction = CryptoUtils.signTransaction(privateKey, transaction);
 }
 ```

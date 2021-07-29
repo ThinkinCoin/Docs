@@ -37,8 +37,7 @@ You can also use [Web Wallet](https://community.binance.org/topic/2487/how-to-ma
 **Submit a List Proposal**
 
 To add a new trading pairs, you can run the following command:  
-Please note:  
-
+Please note:
 
 * `--init-price` is boosted by **1e8** for decimal part, such as 100000000, is 1 BNB
 * `--from`: put your key name for the address / key, you can only list with the owners address of your token.
@@ -66,8 +65,7 @@ As discussed in [BEP-70](https://github.com/binance-chain/BEPs/blob/master/BEP70
 
 ### **Submit a Delist Proposal**
 
-In testnet, only validators can make a delist proposal. To add a new delist pairs, a validator can run the following command:  
-
+In testnet, only validators can make a delist proposal. To add a new delist pairs, a validator can run the following command:
 
 Please note:
 
@@ -294,8 +292,7 @@ $ ./bnbcli gov query-proposal --chain-id Binance-Chain-Ganges --node=tcp://data-
 }
 ```
 
-You can get `tally result` and `proposal_status`.  
-
+You can get `tally result` and `proposal_status`.
 
 For options in `tally result`:
 

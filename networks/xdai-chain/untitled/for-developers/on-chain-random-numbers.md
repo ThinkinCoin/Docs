@@ -2,8 +2,7 @@
 
 The xDai stable chain features an on-chain RNG based on RANDAO. It may be leveraged by smart contract developers to introduce random numbers into their applications. _Note that random numbers are limited to certain blocks in the current implementation. See below for more information._
 
-* * * 
-## Randomness Contract \(RandomAuRa\)  <a id="randomness-contract-randomaura"></a>
+## Randomness Contract \(RandomAuRa\) <a id="randomness-contract-randomaura"></a>
 
 RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\). Seed values are read from the proxy contract.
 

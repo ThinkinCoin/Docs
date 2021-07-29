@@ -19,12 +19,12 @@ There is also a [web wallet](https://testnet.binance.org/en/) that can directly 
 
 ## How to get Testnet Fund <a id="how-to-get-testnet-fund"></a>
 
-> Note: The previous Binance Chain Testnet [Faucet](https://www.binance.com/en/dex/testnet/address) is retired at 2020/08/11 at 1:00 PM \(UTC\). The testnet faucet has migrated to this page: https://testnet.binance.org/faucet-smart
+> Note: The previous Binance Chain Testnet [Faucet](https://www.binance.com/en/dex/testnet/address) is retired at 2020/08/11 at 1:00 PM \(UTC\). The testnet faucet has migrated to this page: [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 
 **Steps to claim testnet BNB:**
 
 1. Create a new Wallet of Binance Smart Chain testnet with [MetaMask or MathWallet](https://docs.binance.org/wallets/bsc-wallets.html)
-2. Get Testnet Fund: https://testnet.binance.org/faucet-smart
+2. Get Testnet Fund: [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 
 To request funds, please make a tweet with your Binance Smart Chain address pasted into the contents. Then, copy-paste the tweets URL! **BNB** will be sent to your BSC wallet right away.
 
@@ -32,7 +32,7 @@ To request funds, please make a tweet with your Binance Smart Chain address past
 
 You can use [Binance Extension Wallet](https://docs.binance.org/smart-chain/wallet/binance.html#transfer-testnet-bnb-from-bsc-to-bc) for cross-chain transfer.
 
-If you wish to test Binance Chain features, you could transfer BNB cross-chain with MathWallet dApp: 
+If you wish to test Binance Chain features, you could transfer BNB cross-chain with MathWallet dApp:
 
 ```text
 https://docs.binance.org/smart-chain/wallet/math.html#transfer-bnb-from-bsc-to-bc
@@ -40,7 +40,5 @@ https://docs.binance.org/smart-chain/wallet/math.html#transfer-bnb-from-bsc-to-b
 
 ## Testnet Explorer
 
-{% embed url="https://testnet-explorer.binance.org/" %}
-
-
+{% embed url="https://testnet-explorer.binance.org/" caption="" %}
 

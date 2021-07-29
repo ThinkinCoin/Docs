@@ -2,9 +2,7 @@
 
 ## Resume
 
-### Proof of Work \(POW\) 
+### Proof of Work \(POW\)
 
-### Stake Proof \(POS\) 
-
-
+### Stake Proof \(POS\)
 

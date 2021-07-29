@@ -12,9 +12,7 @@ If you experience issues during installation, feel free to contact us on the [PO
 
 ### The following topics cover an AWS deployment: <a id="the-following-topics-cover-an-aws-deployment"></a>
 
-1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 
-### **Additional Appendices:** <a id="additional-appendices"></a>
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. **Additional Appendices:**
 
-* * * * 
 ​
 

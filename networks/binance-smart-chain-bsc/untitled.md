@@ -91,7 +91,7 @@ The difference between Binance Chain and Ethereum is that there is no notion of 
 ]
 ```
 
- You will pay on mainnet/testnet
+You will pay on mainnet/testnet
 
 ```text
 0.0003 BNB * 5 = 0.0015 BNB
@@ -289,5 +289,5 @@ The rewards history are saved under `{fullnode home}/marketdata/marketdata.json`
 ...
 ```
 
- Trading fees can be charged in different BEP2 tokens,
+Trading fees can be charged in different BEP2 tokens,
 

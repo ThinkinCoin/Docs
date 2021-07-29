@@ -1,6 +1,4 @@
 # Github
 
-{% embed url="https://github.com/thinkincoin" %}
-
-
+{% embed url="https://github.com/thinkincoin" caption="" %}
 

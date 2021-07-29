@@ -1,7 +1,5 @@
 # Swagger API reference
 
-
-
 API description for swap service
 
 **Version:** V1.0

@@ -38,9 +38,7 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 
 * Minimum &lt;.0001 STAKE, no Maximum
 * Rewards based on time and total amount staked
-* 
-### POSDAO Staking on xDai <a id="posdao-staking-on-xdai"></a>
-
+* **POSDAO Staking on xDai**
 * Minimums may be changed with a governance proposal. Initial staking requirements:
   * Validator Candidate: 20,000 STAKE Minimum
   * Delegator: 200 STAKE Minimum
@@ -54,7 +52,7 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 Public participation will open in phase 2. Individuals can acquire STAKE on the mainnet \([how to get STAKE](https://www.xdaichain.com/for-stakers/stake-token/get-stake)\) and
 
 1. Immediately stake it into the EasyStaking application \(see [EasyStaking](easystaking-on-ethereum.md) for more info\)
-2.  Bridge it to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai are intuitive and easy to perform through the staking UI.
+2. Bridge it to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai are intuitive and easy to perform through the staking UI.
 
 **POSDAO Staking on xDai**
 

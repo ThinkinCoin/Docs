@@ -26,9 +26,8 @@ The Super Representatives can manage their content by editing files in the Githu
 **This guide assumes that you already have an account with Super Representative \(candidate\) status.**
 
 1. Copy/Fork the Template on Github
-
-* Go to [https://github.com/tronscan/tronsr-template](https://github.com/tronscan/tronsr-template)
-* Fork the repository ![](https://raw.githubusercontent.com/tronscan/docs/master/images/fork-repo.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/fork-repo.png)
+2. Go to [https://github.com/tronscan/tronsr-template](https://github.com/tronscan/tronsr-template)
+3. Fork the repository ![](https://raw.githubusercontent.com/tronscan/docs/master/images/fork-repo.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/fork-repo.png)
 
 After forking the repository, you will be navigated to your own `tronsr-template` version of the repository where you can make changes.
 
@@ -47,13 +46,12 @@ Files are written in markdown format. An excellent intro can be found at [https:
 It can e published on [https://tronscan.org](https://tronscan.org/) after you filled the template.
 
 1. Publish to Tronscan
-
-* Go to [https://tronscan.org](https://tronscan.org/)
-* Login to your account. In this example, it uses the private key, but you may use any login method. ![](https://raw.githubusercontent.com/tronscan/docs/master/images/login-with-private-key.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/login-with-private-key.png)
-* Open an account and make sure the "Representative" label is visible ![](https://raw.githubusercontent.com/tronscan/docs/master/images/open-account.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/open-account.png)
-* Scroll to the bottom and click "Set Github Link." ![](https://raw.githubusercontent.com/tronscan/docs/master/images/set-github-link.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/set-github-link.png)
-* Enter your Github username and then press "Link Github." ![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)
-* View your new Page! ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
+2. Go to [https://tronscan.org](https://tronscan.org/)
+3. Login to your account. In this example, it uses the private key, but you may use any login method. ![](https://raw.githubusercontent.com/tronscan/docs/master/images/login-with-private-key.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/login-with-private-key.png)
+4. Open an account and make sure the "Representative" label is visible ![](https://raw.githubusercontent.com/tronscan/docs/master/images/open-account.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/open-account.png)
+5. Scroll to the bottom and click "Set Github Link." ![](https://raw.githubusercontent.com/tronscan/docs/master/images/set-github-link.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/set-github-link.png)
+6. Enter your Github username and then press "Link Github." ![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/input-username.png)
+7. View your new Page! ![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)![](https://raw.githubusercontent.com/tronscan/docs/master/images/view-page.png)
 
 ### Example
 

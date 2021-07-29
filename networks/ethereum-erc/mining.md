@@ -10,7 +10,7 @@ The word mining originates in the context of the gold analogy for crypto currenc
 
 #### What is mining?
 
-Ethereum, like all blockchain technologies, uses an incentive-driven model of security. Consensus is based on choosing the block with the highest total difficulty. Miners produce blocks which the others check for validity. Among other well-formedness criteria, a block is only valid if it contains _proof of work_ \(PoW\) of a given _difficulty_. Note that in the Ethereum Serenity milestone, this is likely going to be replaced by a \(see [proof of stake model]() \).
+Ethereum, like all blockchain technologies, uses an incentive-driven model of security. Consensus is based on choosing the block with the highest total difficulty. Miners produce blocks which the others check for validity. Among other well-formedness criteria, a block is only valid if it contains _proof of work_ \(PoW\) of a given _difficulty_. Note that in the Ethereum Serenity milestone, this is likely going to be replaced by a \(see [proof of stake model](mining.md) \).
 
 The Ethereum blockchain is in many ways similar to the Bitcoin blockchain, although it does have some differences. The main difference between Ethereum and Bitcoin with regard to the blockchain architecture is that, unlike Bitcoin, Ethereum blocks contain a copy of both the transaction list and the most recent state \(the root hash of the merkle patricia trie encoding the state to be more precise\). Aside from that, two other values, the block number and the difficulty, are also stored in the block.
 
@@ -36,7 +36,7 @@ All the gas consumed by the execution of all the transactions in the block submi
 
 _Uncles_ are stale blocks i.e. with parents that are ancestors \(max 6 blocks back\) of the including block. Valid uncles are rewarded in order to neutralise the effect of network lag on the dispersion of mining rewards, thereby increasing security \(this is called the GHOST protocol\). Uncles included in a block formed by the successful PoW miner receive 7/8 of the static block reward \(=4.375 ether\). A maximum of 2 uncles are allowed per block.
 
->
+&gt;
 
 Mining success depends on the set block difficulty. Block difficulty dynamically adjusts each block in order to regulate the network hashing power to produce a 12 second blocktime. Your chances of finding a block therefore follows from your hashrate relative to difficulty.
 

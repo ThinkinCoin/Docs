@@ -122,8 +122,7 @@ Please note that the fixed amount of network fee will be charged for now
 
 img
 
-* 
-![](https://lh5.googleusercontent.com/57vQZ6Xr7KsLMkfJlPiwnFnoa25tMrZERc3-WUxxQY8mgg1mHDWN1ftQd9wGQGV_pi1LO4J8Kf7W9lF5GfYHJYYAnnjfRbpFZxFtwUjTWJnVJeiyc0Cqn51VvBSYna2LQKiFVkTQ)
+* ![](https://lh5.googleusercontent.com/57vQZ6Xr7KsLMkfJlPiwnFnoa25tMrZERc3-WUxxQY8mgg1mHDWN1ftQd9wGQGV_pi1LO4J8Kf7W9lF5GfYHJYYAnnjfRbpFZxFtwUjTWJnVJeiyc0Cqn51VvBSYna2LQKiFVkTQ)
 
 img
 

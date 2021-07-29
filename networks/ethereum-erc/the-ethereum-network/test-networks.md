@@ -10,7 +10,7 @@ In that case, the genesis block description provided by –config will be overwr
 
 Note
 
- contains a JSON description of the network:
+contains a JSON description of the network:
 
 * sealEngine \(engine use to mine block\)
 
@@ -26,7 +26,7 @@ Here is a Config sample \(used by the Olympic network\):
 
 Note
 
- contains a JSON description of the genesis block:
+contains a JSON description of the genesis block:
 
 The content is the same as the genesis field provided by the ‘config’ parameter:
 

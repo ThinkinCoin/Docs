@@ -1,6 +1,6 @@
 # Contracts
 
- [Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
+[Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
 
 ## Contracts
 
@@ -12,7 +12,7 @@ Contracts are typically written in some high level language such as [Solidity](h
 
 See also
 
-Other languages also exist, notably Serpent and LLL, which are described further in the [Ethereum high level languages]() section of this documentation.
+Other languages also exist, notably Serpent and LLL, which are described further in the [Ethereum high level languages](contracts.md) section of this documentation.
 
 [Dapp development resources](https://ethdocs.org/en/latest/contracts-and-transactions/developer-tools.html#ide-or-development-framework) lists the integrated development environments, developer tools that help you develop in these languages, offering testing, and deployment support among other features.
 

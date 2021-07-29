@@ -4,7 +4,7 @@
 
 The Huobi Open Platform is a unified infrastructure platform based on the technical, traffic and ecological resources of the Huobi Group, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. In December 2020, the first product of the Huobi Open Platform, the Huobi ECO Chain, also known as Heco, officially launched its "Tinder" phase. In addition, Huobi Open Platform will launch DEX and other blockchain infrastructures based on Layer 2. The Huobi Open Platform will provide global developers with series of diverse innovative facilities and services.
 
-###  Huobi ECO Chain
+### Huobi ECO Chain
 
 Huobi ECO Chain \(Heco\) is a decentralized, high-efficiency and energy-saving public chain, also the first product launched by the Huobi Open Platform. It is compatible with smart contracts and supports high-performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
@@ -286,6 +286,6 @@ Huobi Global will strongly support the development of Heco ecosystem:
 * Heco announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
 * Do not misread the official website \(hecochain.com\), and be cautious with private key phishing.
 
-[  
+[    
 ](https://docs.hecochain.com/#/en-us/Integrity)
 

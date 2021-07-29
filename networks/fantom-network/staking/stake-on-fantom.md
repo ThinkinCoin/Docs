@@ -18,9 +18,7 @@ Fantom uses a Proof-of-Stake consensus algorithm to validate transactions and se
 2. Click "Delegation"
 3. Choose the amount of FTM you would like to stake and a validator. _You can click on a validator to show more information. Make sure to do your due diligence regarding the validators. A validator cannot access your funds; however, if a validator acts maliciously, your staked tokens could be reduced._
 4. Select your lock-up period
-
-* * 
-## FAQ <a id="faq"></a>
+5. * **FAQ**
 
 **Are my tokens SAFE when I stake?**
 

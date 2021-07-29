@@ -62,7 +62,7 @@ We have designed an excellent on-chain governance mechanism that attributes to t
 
 A proposal can include adjustments of blockchain parameters, the opening of new features, etc. Proposal mechanism can prevent a node from multiple restarts during a blockchain update, which improves the efficiency of the consensus and provides a channel for community supervision.
 
-[Super Representatives]()
+[Super Representatives](./)
 
 [TRON consensus mechanism DPOS](https://tronprotocol.github.io/documentation-zh/introduction/dpos/)
 
@@ -76,7 +76,7 @@ Double spend attack has always been the issue that needs to be treated strictly 
 
 TRC10 token is based on system contracts, can be issued simply on TRON public chain. TRC10 standard significantly reduces the cost of token circulation, as system contract transactions only consume bandwidth. TRC10 token transactions can be done in the decentralized exchange built in TRON public chain.
 
-[TRC10]()
+[TRC10](./)
 
 TRON Virtual Machine\(TVM\) implemented in TRON public chain is fully compatible with the Ethereum Virtual Machine\(EVM\). Not only does TVM reduce the learning cost for developers, due to the born advantage of DPOS consensus algorithm of TRON public chain, but also improves operational efficiency and reduces the cost.
 
@@ -147,8 +147,8 @@ Nile test net is generally used to test new features. The code version of the Ni
 * Event API: [https://event.nileex.io/](https://event.nileex.io/)
 * Public full node:
 
-   47.252.19.181  
-   47.252.3.238
+  47.252.19.181  
+  47.252.3.238
 
 * Data backup: [http://47.90.243.177/](http://47.90.243.177/)
 
@@ -235,19 +235,19 @@ In the future, we will adhere to the value concept of "decentralized the web" an
 
 ![](https://cdn.readme.io/img/book-icon.svg?1625079683213) Updated 2 months ago
 
-* [Table of Contents]()
-  *  [What is TRON]()
-  *  [TRON Public Chain]()
-    * [1.Overview]()
-    * [2.Present]()
-    * [3. Architecture]()
-  *  [Core applications in TRON ecosystem]()
-    * [1.Overview]()
-    * [2.Wallet client]()
-    * [3.Blockchain explorer]()
-    * [4.DAPP]()
-    * [5.Testnet]()
-  *  [TRON's ecosystem growth]()
-  *  [TRON community products]()
-  *  [The future of TRON]()
+* [Table of Contents](./)
+  * [What is TRON](./)
+  * [TRON Public Chain](./)
+    * [1.Overview](./)
+    * [2.Present](./)
+    * [3. Architecture](./)
+  * [Core applications in TRON ecosystem](./)
+    * [1.Overview](./)
+    * [2.Wallet client](./)
+    * [3.Blockchain explorer](./)
+    * [4.DAPP](./)
+    * [5.Testnet](./)
+  * [TRON's ecosystem growth](./)
+  * [TRON community products](./)
+  * [The future of TRON](./)
 

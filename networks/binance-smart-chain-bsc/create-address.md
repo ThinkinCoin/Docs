@@ -8,7 +8,7 @@ Because the private key must be kept secret, you can generate the private key wi
 
 * JavaScript Example
 
- JavaScript
+  JavaScript
 
 ```text
 // generate key entropy
@@ -29,7 +29,7 @@ const address = bnbClient.getClientKeyAddress();
 console.log("address: ", address);
 ```
 
- GoLang
+GoLang
 
 ```text
 //-----   Init KeyManager  -------------
@@ -41,7 +41,7 @@ accn,_:=client.GetAccount(client.GetKeyManager().GetAddr().String())
 fmt.Println(accn)
 ```
 
- Python
+Python
 
 ```text
 from binance_chain.wallet import Wallet

@@ -4,11 +4,11 @@ BitTorrent File System \(BTFS\) is a next-generation file-sharing protocol utili
 
 Metadata is the detailed information of the NFT token. It is stored off the chain. Generally, the issuance of an NFT token will specify a URI path that points to the Metadata data of the token.
 
-### 1 Install BTFS
+## 1 Install BTFS
 
 Refer to [BTFS Installation Instructions](https://docs.btfs.io/docs/btfs-demo).
 
-### 2 Deposit BTT
+## 2 Deposit BTT
 
 Uploading files to the BTFS network requires BTT as the payment method.
 
@@ -22,7 +22,7 @@ While using `btfs init` to initialize the local node, the command will generate 
 
 First, you need to recharge some BTT to the node's TRON account and then transfer the BTT of the TRON account to the accounting system of the BTFS network.
 
-#### Set a Password
+### Set a Password
 
 Run the following command to set a password for the node wallet:Shell
 
@@ -30,7 +30,7 @@ Run the following command to set a password for the node wallet:Shell
 btfs wallet password   **********
 ```
 
-#### Transfer BTT to BTFS network accounting system
+### Transfer BTT to BTFS network accounting system
 
 Running the following command will transfer the BTT of the local BTFS node account to the accounting system of the BTFS network. The minimum transfer amount is 10 BTT, and the BTT unit specified in the following command is μBTT \(1/1000000 of BTT\):Shell
 
@@ -38,15 +38,15 @@ Running the following command will transfer the BTT of the local BTFS node accou
 btfs wallet deposit -p *********  10000000
 ```
 
-### 3 Upload the File
+## 3 Upload the File
 
-#### Step 1: Prepare a picture and name the picture coral.jpeg
-
-![](https://files.readme.io/e53617d-611616987482_.pic_hd.jpg)
+### Step 1: Prepare a picture and name the picture coral.jpeg
 
 ![](https://files.readme.io/e53617d-611616987482_.pic_hd.jpg)
 
-#### Step 2: Use Reed-Solomon encoding to add pictures to the local node
+![](https://files.readme.io/e53617d-611616987482_.pic_hd.jpg)
+
+### Step 2: Use Reed-Solomon encoding to add pictures to the local node
 
 Shell
 
@@ -60,7 +60,7 @@ btfs add --chunker=reed-solomon coral.jpeg
 
 The `QmUK9nwtLEiHBJ48HAZHNmSQ53U6ADbRhATxs2tomadwKw` in the picture is the hash value of the file.
 
-#### Step 3: Upload files to the BTFS network through this hash value:
+### Step 3: Upload files to the BTFS network through this hash value:
 
 Shell
 
@@ -78,7 +78,7 @@ When you see "File storage successful" in the window of `btfs daemon`, it means 
 
 ![](https://files.readme.io/1a87623-641616987616_.pic_hd.jpg)
 
-#### Step 4: Verify that the picture can be downloaded
+### Step 4: Verify that the picture can be downloaded
 
 Open the following link of the picture in the browser, you can see the picture indicating that the picture can be downloaded successfully:
 
@@ -88,7 +88,7 @@ Open the following link of the picture in the browser, you can see the picture i
 
 ![](https://files.readme.io/89b6fe0-651616987651_.pic_hd.jpg)
 
-### 4 Construct the NFT metadata file
+## 4 Construct the NFT metadata file
 
 You can use the image link above to construct metadata for NFT.
 
@@ -105,8 +105,7 @@ Run the btfs command to upload coral.json:
 ![](https://files.readme.io/43483fc-671616987719_.pic_hd.jpg)
 
 Open the URI of the metadata file in the browser:  
-[https://gateway.btfs.io/btfs/QmWq4cp588QD8tzrSxvPs2bGikDdKyA35BT3iysBcP1jFD](https://gateway.btfs.io/btfs/QmWq4cp588QD8tzrSxvPs2bGikDdKyA35BT3iysBcP1jFD)  
-
+[https://gateway.btfs.io/btfs/QmWq4cp588QD8tzrSxvPs2bGikDdKyA35BT3iysBcP1jFD](https://gateway.btfs.io/btfs/QmWq4cp588QD8tzrSxvPs2bGikDdKyA35BT3iysBcP1jFD)
 
 ![](https://files.readme.io/6b62b0f-681616987739_.pic.jpg)
 

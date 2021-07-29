@@ -2,7 +2,5 @@
 
 ![](../.gitbook/assets/twitter.png)
 
-{% embed url="https://twitter.com/thinkincoin" %}
-
-
+{% embed url="https://twitter.com/thinkincoin" caption="" %}
 

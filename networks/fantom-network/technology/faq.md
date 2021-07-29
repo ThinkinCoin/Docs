@@ -128,3 +128,4 @@ The Fantom Foundation is currently in charge of the governance of the network, a
 Find out [more details on Fantom’s governance proposal](https://github.com/Fantom-foundation/FIPs/blob/master/FIPS/governance.pdf).
 
 * * 
+

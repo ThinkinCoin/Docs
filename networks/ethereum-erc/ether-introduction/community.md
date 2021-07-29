@@ -8,7 +8,7 @@ The [Ethereum subreddit](https://www.reddit.com/r/ethereum/) is the most inclusi
 
 Strictly no price discussion.
 
-Also, this is not the ideal place to ask for hands-on help or post questions you expect there are clear immediate answers to \(use [Gitter Rooms]() and [Stack Exchange]() for these, respectively\).
+Also, this is not the ideal place to ask for hands-on help or post questions you expect there are clear immediate answers to \(use [Gitter Rooms](community.md) and [Stack Exchange](community.md) for these, respectively\).
 
 Read the [Ethereum subreddit rules](http://www.reddit.com/r/ethereum/comments/3auc97/ethereum_subreddit_rules/) before posting.
 

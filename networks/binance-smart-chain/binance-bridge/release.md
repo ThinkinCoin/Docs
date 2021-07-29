@@ -2,9 +2,7 @@
 
 ## New Features <a id="new-features"></a>
 
-* 
-## New Features <a id="new-features-1"></a>
-
+* **New Features**
 * Switch between V1 and V2
 * New UI
 

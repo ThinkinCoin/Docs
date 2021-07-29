@@ -20,7 +20,7 @@ Please refer to this [governance doc](https://docs.binance.org/governance.html) 
 
 _Community Thread Proposal \(Recommended\)_
 
-It is recommended that Token Issuers first create a thread under the “Token Issuance & Listings” category in the Binance Chain Community Forum \(https://community.binance.org/\). The whole guideline is [here](https://community.binance.org/topic/18/guidelines-on-how-to-list-your-token-on-binance-dex)
+It is recommended that Token Issuers first create a thread under the “Token Issuance & Listings” category in the Binance Chain Community Forum \([https://community.binance.org/\](https://community.binance.org/\)\). The whole guideline is [here](https://community.binance.org/topic/18/guidelines-on-how-to-list-your-token-on-binance-dex)
 
 ### Send List Transaction <a id="3-send-list-transaction"></a>
 

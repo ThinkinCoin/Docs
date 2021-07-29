@@ -15,7 +15,7 @@ This tutorial will help you set up Fantom Testnet on Metamask.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MKjpUMrhoyibSIWfRrl%2F-MT6mc2ksvNYafHnG6Pn%2F-MT6nR9Eob74g_TYLDhS%2FScreen%20Shot%202021-02-09%20at%2011.19.02%20AM.png?alt=media&token=203effb3-78cd-46b8-9056-bef2b2c03f45)
 
-5. Access the testnet faucet at [https://faucet.fantom.network/](https://faucet.fantom.network/) to request some testnet FTM
+1. Access the testnet faucet at [https://faucet.fantom.network/](https://faucet.fantom.network/) to request some testnet FTM
 
 ​[Tutorials - PreviousSet up Metamask](set-up-metamask.md)[Next - TutorialsDeploy a Smart Contract](deploy-a-smart-contract.md)
 

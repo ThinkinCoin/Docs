@@ -32,14 +32,12 @@ As well as functioning as a stand-alone application, Easy Staking may be integra
 
 LP incentives are distributed on average every 7 days - the exact distribution date is randomized. Incentives are distributed among the **top 100 pools**.
 
-* * 
-Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives. **Note only the top 100 LPs receive additional STAKE.**
+* Here's an example of how it works for 👨🌾 Bob:
+  Here's an example of how it works for 👨🌾 Bob:
 
- Here's an example of how it works for 👨🌾 Bob:
-
-1. Bob acquires .3 ETH and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes .3 ETH and 30 STAKE have equivalent value\)
-2. He goes to Uniswap \(v2\) and adds both into the [STAKE/ETH liquidity pool](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7).
-3. After some time, 👨🌾 Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to 👩🎨 Mary ⤵ withdrawing money from Easy Staking.
+* Bob acquires .3 ETH and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes .3 ETH and 30 STAKE have equivalent value\)
+* He goes to Uniswap \(v2\) and adds both into the [STAKE/ETH liquidity pool](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7).
+* After some time, 👨🌾 Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to 👩🎨 Mary ⤵ withdrawing money from Easy Staking.
 
 ## STAKE Distribution \(time-based example\) <a id="stake-distribution-time-based-example"></a>
 

@@ -17,14 +17,14 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * ​[Gnosis](https://gnosis.io/): With the [xDai-Gnosis partnership](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b), Gnosis is deploying all of their applications to xDai including:
   * ​[Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
   * ​[Gnosis Safe Multisig](https://gnosis-safe.io/), a wallet holding more than $1 Billion in assets
-    * 
+
+    \* 
+
   * ​[Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket.
   * ​[Gnosis Auction](https://www.xdaichain.com/about-xdai/project-spotlights/gnosis/gnosis-auction): Batch auctions for token sales, collateral shortfall events and more.
 * ​[Chainlink](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/): Native Oracle Integration
 * ​[HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
-* 
-### **Infrastructure** <a id="infrastructure"></a>
-
+* **Infrastructure**
 * ​[1Hive](https://www.xdaichain.com/about-xdai/project-spotlights/1hive): DAO with a Community Currency & DEX on xDai
   * ​[Aragon Connect](https://1hive.org/): Deployed by 1Hive, provides DAO governance and proposal functionality.
 * RaidGuild:
@@ -39,7 +39,9 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 ### DeFi <a id="defi"></a>
 
 * ​[Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
-  * 
+
+  \* 
+
 * * ​[SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
 * ​[BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO
 * ​[Component Finance](https://xdai.component.finance/): Stable Coin Swap
@@ -68,7 +70,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * ​[Crypto stamp](https://crypto.post.at/): Digital NFT + Physical Postage Stamps from the Austrian Post.
 * ​[Nifty.Ink](https://nifty.ink/): Create, send and bridge artistic NFTs
 * ​[Chievmint](https://chiev.net/): The Ministry for Minting Achievements
-* ​[Shenanigan](): Grassroots athletic sponsorship
+* ​[Shenanigan](projects-and-dapps.md): Grassroots athletic sponsorship
 * ​[GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * ​[BeyondNFT](https://beyondnft.io/): Generative NFTs
 * ​[NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
@@ -85,7 +87,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * ​[Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
   * ​[xlr8r+](https://xlr8r.io/nft-marketplace)**:** Art and Music NFT Marketplace
 * Projects that use xDai for NFT minting include:
-  * * 
+  * \* 
 * ​[POAP](https://www.poap.xyz/): Proof of Attendance Protocol \(NFTs\). [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
 * ​[Grassroots Economics](https://www.xdaichain.com/about-xdai/use-cases/community-currencies): Community Currencies in Kenya
 * ​[Galt Project](https://www.xdaichain.com/about-xdai/use-cases/dao-governance): DAO governance, UBI

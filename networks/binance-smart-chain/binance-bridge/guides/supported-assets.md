@@ -134,8 +134,6 @@ SXP Token URL:
 * [BEP2](https://explorer.binance.org/asset/SXP-CCC)
 * [BEP20](https://bscscan.com/token/0xa2B726B1145A4773F68593CF171187d8EBe4d495)
 
-
-
 Many more assets are coming soon ~
 
 ​

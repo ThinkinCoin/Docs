@@ -24,7 +24,7 @@ Once you have the copy on your machine, build the executable:
 $ cd fantom-api-graphql$ go build -o ./build/apiserver ./cmd/apiserver
 ```
 
- The API server executable will be created in the folder of the project. You can change the location by changing the output path in the Go building command above.
+The API server executable will be created in the folder of the project. You can change the location by changing the output path in the Go building command above.
 
 To run your copy of the API server, simply run:
 

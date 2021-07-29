@@ -1,6 +1,6 @@
 # Atomic Swap
 
-### Introduction <a id="introduction"></a>
+## Introduction <a id="introduction"></a>
 
 As explained in [BEP3](https://github.com/binance-chain/BEPs/blob/master/BEP3.md), Hash Timer Locked Contract\(HTLC\) has been used for Atomic Swap and cross payment channels between different blockchains. BEP3 defines native transactions to support HTLC on Binance Chain and also proposes the standard infrastructure and procedure to use HTLC for inter-chain atomic swap to easily create and use pegged token. During the swap process, the related fund will be locked to a purely-code-controlled escrow account. A purely-code-controlled escrow account is a kind of account which is derived from a hard-coded string in binance chain protocol. This kind of account doesn't have its own private key and it's only controlled by code of the protocol. The code for calculating escrow account is the same that is used in [cosmos-sdk](https://github.com/cosmos/cosmos-sdk/blob/82a2c5d6d86ffd761f0162b93f0aaa57b7f66fe7/x/supply/internal/types/account.go#L40):
 
@@ -10,9 +10,9 @@ AtomicSwapCoinsAccAddr = sdk.AccAddress(crypto.AddressHash([]byte("BinanceChainA
 
 The account for mainnet is: **bnb1wxeplyw7x8aahy93w96yhwm7xcq3ke4f8ge93u** and the account for testnet is: **tbnb1wxeplyw7x8aahy93w96yhwm7xcq3ke4ffasp3d**. Once the swap is claimed or refunded, the fund will be transferred from the purely-code-controlled escrow account to client accounts.
 
-### Commands <a id="commands"></a>
+## Commands <a id="commands"></a>
 
-#### Hash Timer Locked Transfer <a id="hash-timer-locked-transfer"></a>
+### Hash Timer Locked Transfer <a id="hash-timer-locked-transfer"></a>
 
 Hash Timer Locked Transfer \(HTLT\) is a new transaction type on Binance Chain, to serve as HTLC in the first step of Atomic Swap,
 
@@ -162,7 +162,7 @@ Javascript:
   const res = client.swap.HTLT(from, recipient, recipientOtherChain, senderOtherChain, randomNumberHash, timestamp, amount, expectedIncome, heightSpan, true)
 ```
 
-#### Deposit HTLT <a id="deposit-htlt"></a>
+### Deposit HTLT <a id="deposit-htlt"></a>
 
 Deposit Hash Timer Locked Transfer is to lock new BEP2 asset to an existed HTLT which is for single chain atomic swap.
 
@@ -207,7 +207,7 @@ Committed at block 39984686 (tx hash: AA118F7CFCB3FFF86EF5EED8D2B9ADEAC5D9F24249
 
 After the deposit, you may observe that the balance of sender is decreased. The amount in deposit transaction must be positive. Besides, you can query the swap by `swapID` and the `in_amount` must equal to the amount that you balance decreased.
 
-#### Claim HTLT <a id="claim-htlt"></a>
+### Claim HTLT <a id="claim-htlt"></a>
 
 Claim Hash Timer Locked Transfer is to claim the locked asset by showing the random number value that matches the hash. Each HTLT locked asset is guaranteed to be release once.
 
@@ -246,7 +246,7 @@ Example output:
 Committed at block 39984971 (tx hash: 15B8625E0247DE54700D3C5C110BE0CE279D33CC13A73845F3E0305758A40902, response: {Code:0 Data:[] Log:Msg 0:  Info: GasWanted:0 GasUsed:0 Tags:[{Key:[115 101 110 100 101 114] Value:[116 98 110 98 49 119 120 101 112 108 121 119 55 120 56 97 97 104 121 57 51 119 57 54 121 104 119 109 55 120 99 113 51 107 101 52 102 102 97 115 112 51 100] XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0} {Key:[114 101 99 105 112 105 101 110 116] Value:[116 98 110 98 49 110 107 120 57 57 52 113 118 113 109 113 103 107 53 55 118 103 117 113 104 54 122 106 108 97 99 113 122 120 100 107 117 101 53 122 106 121 120] XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0} {Key:[115 101 110 100 101 114] Value:[116 98 110 98 49 119 120 101 112 108 121 119 55 120 56 97 97 104 121 57 51 119 57 54 121 104 119 109 55 120 99 113 51 107 101 52 102 102 97 115 112 51 100] XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0} {Key:[114 101 99 105 112 105 101 110 116] Value:[116 98 110 98 49 103 57 114 122 99 48 101 50 106 102 56 101 102 51 113 112 57 97 120 56 104 48 112 109 112 109 118 106 122 119 109 116 113 52 106 120 102 114] XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0} {Key:[97 99 116 105 111 110] Value:[99 108 97 105 109 72 84 76 84] XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0}] Codespace: XXX_NoUnkeyedLiteral:{} XXX_unrecognized:[] XXX_sizecache:0})
 ```
 
-#### Refund HTLT <a id="refund-htlt"></a>
+### Refund HTLT <a id="refund-htlt"></a>
 
 Refund Hash Timer Locked Transfer is to refund the locked asset after timelock is expired.
 
@@ -291,7 +291,7 @@ Common error:
   ERROR: {"codespace":8,"code":8,"abci_code":524296,"message":"Current block height is 40003412, the expire height (40013236) is still not reached"}
   ```
 
-#### Query Atomic Swap <a id="query-atomic-swap"></a>
+### Query Atomic Swap <a id="query-atomic-swap"></a>
 
 Query atomic swap allows you to search swap information by `swapID`
 
@@ -340,7 +340,7 @@ Query atomic swap allows you to search swap information by `swapID`
   }
   ```
 
-#### Query Atomic Swap ID By Recipient <a id="query-atomic-swap-id-by-recipient"></a>
+### Query Atomic Swap ID By Recipient <a id="query-atomic-swap-id-by-recipient"></a>
 
 Query atomic swap ID allows you to search swap history of an recipient. As this is a heavy query interface, some public nodes might close this query interface.
 
@@ -367,7 +367,7 @@ Example output:
 ]
 ```
 
-#### Query Atomic Swap ID By Creator <a id="query-atomic-swap-id-by-creator"></a>
+### Query Atomic Swap ID By Creator <a id="query-atomic-swap-id-by-creator"></a>
 
 Query atomic swap ID allows you to search swap history of an initiator. As this is a heavy query interface, some public nodes might close this query interface.
 
@@ -397,7 +397,7 @@ Example output:
 ]
 ```
 
-### Fees <a id="fees"></a>
+## Fees <a id="fees"></a>
 
 | Transaction Type | Pay in Non-BNB Asset | Pay in BNB | Exchange \(DEX\) Related |
 | :--- | :--- | :--- | :--- |
@@ -406,22 +406,22 @@ Example output:
 | claimHTLT | N/A | 0.000375 BNB | Y |
 | refundHTLT | N/A | 0.000375 BNB | Y |
 
-### Workflows <a id="workflows"></a>
+## Workflows <a id="workflows"></a>
 
-#### Preparations <a id="preparations"></a>
+### Preparations <a id="preparations"></a>
 
 1. Deploy smart-contract which supports Atomic Peg Swap \(APS\), there is already [one example](https://github.com/binance-chain/bep3-smartcontracts) for Ethereum
 2. Deploy `deputy` process for handling swap activities by token owners, there is an existing open-source solution here: [https://github.com/binance-chain/bep3-deputy](https://github.com/binance-chain/bep3-deputy)
 3. Issue and transfer enough tokens
 
-#### Testnet Deployment <a id="testnet-deployment"></a>
+### Testnet Deployment <a id="testnet-deployment"></a>
 
 * ERC20 contract has been deployed here: [https://ropsten.etherscan.io/address/0xd93395b2771914e1679155f3ea58c41d89d96098](https://ropsten.etherscan.io/address/0xd93395b2771914e1679155f3ea58c41d89d96098)
 * Token Symbol: **PPC**
 * SmartContract has been deployed here: [https://ropsten.etherscan.io/address/0x12dcbf79be178479870a473a99d91f535ed960ad](https://ropsten.etherscan.io/address/0x12dcbf79be178479870a473a99d91f535ed960ad)
 * Its corresponding address on testnet is: `tbnb1pk45lc2k7lmf0pnfa59l0uhwrvpk8shsema7gr`on Binance Chain and `0xD93395B2771914E1679155F3EA58C41d89D96098` on Ethereum testnet
 
-#### Swap Tokens from Ethereum to Binance Chain <a id="swap-tokens-from-ethereum-to-binance-chain"></a>
+### Swap Tokens from Ethereum to Binance Chain <a id="swap-tokens-from-ethereum-to-binance-chain"></a>
 
 ![image-20190918193751444](https://docs.binance.org/assets/eth2bnc.png)
 
@@ -632,7 +632,7 @@ This is a javascript implementation for client app to swap [PPC](https://ropsten
   //----------------------------------------------------------------------------
 ```
 
-#### Swap Tokens from Binance Chain to Ethereum <a id="swap-tokens-from-binance-chain-to-ethereum"></a>
+### Swap Tokens from Binance Chain to Ethereum <a id="swap-tokens-from-binance-chain-to-ethereum"></a>
 
 ![image-20190918193910521](https://docs.binance.org/assets/bnc2eth.png)
 
@@ -795,11 +795,11 @@ This is a javascript implementation of client app to swap [PPC-00A](https://test
   //----------------------------------------------------------------------------
 ```
 
-#### Swap between Several BEP2 tokens <a id="swap-between-several-bep2-tokens"></a>
+### Swap between Several BEP2 tokens <a id="swap-between-several-bep2-tokens"></a>
 
 ![image-20190918193422062](https://docs.binance.org/assets/same-chain.png)
 
-#### Swap between Several BEP2 tokens fails <a id="swap-between-several-bep2-tokens-fails"></a>
+### Swap between Several BEP2 tokens fails <a id="swap-between-several-bep2-tokens-fails"></a>
 
 ![image-20190918193518929](https://docs.binance.org/assets/samechain-fail.png)
 

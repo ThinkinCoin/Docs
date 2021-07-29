@@ -120,6 +120,5 @@ TRC721 added successfully![](https://files.readme.io/d7c0a14-4.png)![](https://f
 
 * Transfer successfully
 
-![](https://files.readme.io/92f55bb-9.png)![](https://files.readme.io/92f55bb-9.png)  
-
+![](https://files.readme.io/92f55bb-9.png)![](https://files.readme.io/92f55bb-9.png)
 

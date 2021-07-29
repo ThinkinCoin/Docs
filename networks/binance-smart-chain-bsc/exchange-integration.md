@@ -7,28 +7,28 @@ There are public nodes running by Binance Chain community which will allow you t
 ### REST API <a id="rest-api"></a>
 
 [Accelerated nodes](https://docs.binance.org/faq.html#what-is-the-accelerated-node) provide advanced API services for the public.  
- List of all the Rest API information available on accelerated node can be found: [here](https://docs.binance.org/api-reference/dex-api/paths.html)
+List of all the Rest API information available on accelerated node can be found: [here](https://docs.binance.org/api-reference/dex-api/paths.html)
 
 ### Node RPC <a id="node-rpc"></a>
 
 There are multiple data seed node in the network which allow users to perform low-level operations like executing ABCI queries, broadcasting a transaction or viewing network/consensus state.  
- If you run a full node by yourself, you can also use those RPC functions.  
- List of all endpoints Node RPC service provides can be found: [here](https://docs.binance.org/api-reference/node-rpc.html)
+If you run a full node by yourself, you can also use those RPC functions.  
+List of all endpoints Node RPC service provides can be found: [here](https://docs.binance.org/api-reference/node-rpc.html)
 
 ## Running a Full Node <a id="running-a-full-node"></a>
 
 Running a full node requires considerable computational/bandwidth resources.  
- Please refer to this guide about [how to run your own node](https://docs.binance.org/fullnode.html).
+Please refer to this guide about [how to run your own node](https://docs.binance.org/fullnode.html).
 
 ## Access via Node Command Line Interface \(CLI\) <a id="access-via-node-command-line-interface-cli"></a>
 
 Command Line Interface is currently available for Linux, Mac and Windows.  
- Please refer to the [CLI Reference](https://docs.binance.org/api-reference/cli.html).
+Please refer to the [CLI Reference](https://docs.binance.org/api-reference/cli.html).
 
 ## SDKs <a id="sdks"></a>
 
 There are multiple advanced SDK solutions available for Binance chain.  
- Majority of SDKs provide simplified functions to:
+Majority of SDKs provide simplified functions to:
 
 * Create wallets and manage keys
 * Encode/sign transactions and submit to Binance Chain/DEX, including Transfer, New Order, Cancel Order, etc.
@@ -95,7 +95,7 @@ source: "889"
 
 The two phases we should be concerned about are `CheckTx` and `DeliverTx`.
 
-We recommend that you broadcast your transactions via [REST API]() or, if you wish to run a [Full Node](), [Node RPC]() via the `BroadcastTxSync` command.
+We recommend that you broadcast your transactions via [REST API](exchange-integration.md) or, if you wish to run a [Full Node](exchange-integration.md), [Node RPC](exchange-integration.md) via the `BroadcastTxSync` command.
 
 While there is an RPC command called `BroadcastTxCommit` which will wait for both `CheckTx` and `DeliverTx` and return with codes for both and a block height, it is unfortunately [not recommended for use in production](https://github.com/tendermint/tendermint/blob/e3a97b09814bf9289e8c10420af38ce369160752/rpc/core/mempool.go#L154).
 

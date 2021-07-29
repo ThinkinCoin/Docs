@@ -1,6 +1,6 @@
 # Wallets Support
 
-### List of Wallets Supporting Binance Chain Mainnet
+## List of Wallets Supporting Binance Chain Mainnet
 
 | Number | Wallet Name | Website | DEX Feature Available | Testnet Support | WalletConnect Support |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -34,6 +34,4 @@
 | 28 | [Mixin](https://docs.binance.org/wallets/mixin.html) | [https://mixin.one](https://mixin.one/) | No | No | No |
 | 29 | [Ownbit](https://docs.binance.org/wallets/ownbit.html) | [https://ownbit.io](https://ownbit.io/) | No | No | No |
 | 30 | [Frontier](https://docs.binance.org/wallets/frontier.html) | [https://frontierwallet.com/](https://frontierwallet.com/) | No | Yes | No |
-
-
 

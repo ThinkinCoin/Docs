@@ -1,7 +1,5 @@
 # Contracts and Transactions
 
-
-
 ## Contracts and Transactions
 
 * [Account Types, Gas, and Transactions](https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html)

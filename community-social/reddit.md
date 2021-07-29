@@ -1,6 +1,4 @@
 # Reddit
 
-{% embed url="https://www.reddit.com/user/thinkincoin" %}
-
-
+{% embed url="https://www.reddit.com/user/thinkincoin" caption="" %}
 

@@ -2,7 +2,7 @@
 
 TronWeb allows developers to easily perform multi-signing with the `tronWeb.trx.multiSign` method. The is an example of the workflow.
 
-### 1. Create transaction
+## 1. Create transaction
 
 JavaScript
 
@@ -10,7 +10,7 @@ JavaScript
 const originalTransaction = await tronWeb.transactionBuilder.sendTrx('41e0d5217904dcb2d5453c2359b86df9673046c4ce', 100000, '4164eb61f763d3374a998989f06929c1bad87175ba');
 ```
 
-### 2. Perform the Multi-Signing
+## 2. Perform the Multi-Signing
 
 JavaScript
 
@@ -60,7 +60,7 @@ The method requires passing the original transaction, the private key for signin
 
 Notes: If you use active permission, we will re-calculate the transaction ID, which differs from the original transaction after `tronWeb.transactionBuilder.sendTrx` or other methods.
 
-### 3. Check Transaction's Sign Weight
+## 3. Check Transaction's Sign Weight
 
 The function `tronweb.trx.getSignWeight`allows you to check how many addresses have signed the transaction and the current weight. This function can be run either during the multi-signing process or after its completion.JavaScript
 
@@ -73,7 +73,7 @@ Result:JSON
 ```text
 {
   "result": {
-    
+
   },
   "approved_list": [
     "4164eb61f763d3374a998989f06929c1bad87175ba",
@@ -139,7 +139,7 @@ Result:JSON
 }
 ```
 
-### 4. Check Approved List
+## 4. Check Approved List
 
 The function `tronWeb.trx.getApprovedList` allows you to check how many addresses have already signed \(approved\) the transaction.JavaScript
 
@@ -152,7 +152,7 @@ Result:JSON
 ```text
 {
   "result": {
-    
+
   },
   "approved_list": [
     "4164eb61f763d3374a998989f06929c1bad87175ba",
@@ -196,7 +196,7 @@ Result:JSON
 }
 ```
 
-### 5. Broadcast Transaction
+## 5. Broadcast Transaction
 
 Once multi-signing completes, you can broadcast the signed transaction directly and check the transaction by using `getTransactionById` later.JavaScript
 

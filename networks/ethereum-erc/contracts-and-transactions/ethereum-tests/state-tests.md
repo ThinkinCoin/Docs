@@ -1,8 +1,8 @@
 # State Tests
 
- [Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
+[Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
 
-## State Tests[¶]()
+## State Tests[¶](state-tests.md)
 
 Found in `/StateTest`, the state tests aim is to test the basic workings of the state in isolation.
 
@@ -12,7 +12,7 @@ The log entries \(`logs`\) as well as any output returned from the code \(`outpu
 
 It is generally expected that the test implementer will read `env`, `transaction` and `pre` then check their results against `logs`, `out`, and `post`.
 
-### Basic structure[¶]()
+### Basic structure[¶](state-tests.md)
 
 ```text
 {
@@ -36,7 +36,7 @@ It is generally expected that the test implementer will read `env`, `transaction
 }
 ```
 
-### Sections[¶]()
+### Sections[¶](state-tests.md)
 
 * **The** `env` **section:**
 
@@ -140,5 +140,5 @@ The data, given as an array of bytes, returned from the execution \(using the `R
 > 2. “longnumber” - \(any long number\)
 > 3. “0xhex\_num” - \(hex format number\)
 >
-> > e.g: `````````[1, 2, 10000, "0xabc345dFF", "199999999999999999999999999999999999999"]`````````
+> > e.g: `[1, 2, 10000, "0xabc345dFF", "199999999999999999999999999999999999999"]`
 

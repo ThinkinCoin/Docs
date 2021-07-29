@@ -12,7 +12,7 @@ let contract = await tronWeb.contract().at(trc20ContractAddress);
 await contract && contract.Transfer().watch((err, event) => {
   if(err)
     return console.error('Error with "Message" event:', err);
- 
+
   console.group('New event received');
   console.log('- Contract Address:', event.contract);
   console.log('- Event Name:', event.name);

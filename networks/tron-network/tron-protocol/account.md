@@ -49,11 +49,11 @@ ECDSA, SECP256K
 Java
 
 ```text
-priKey:::8e812436a0e3323166e1f0e8ba79e19e217b2c4a53c970d4cca0cfb1078979df        
-pubKey::04a5bb3b28466f578e6e93fbfd5f75cee1ae86033aa4bbea690e3312c087181eb366f9a1d1d6a437a9bf9fc65ec853b9fd60fa322be3997c47144eb20da658b3d1         
-hash:::159817a085f113d099d3d93c051410e9bfe043cc5c20e43aa9a083bf73660145         
-r:::38b7dac5ee932ac1bf2bc62c05b792cd93c3b4af61dc02dbb4b93dacb758123f         
-s:::08bf123eabe77480787d664ca280dc1f20d9205725320658c39c6c143fd5642d         
+priKey:::8e812436a0e3323166e1f0e8ba79e19e217b2c4a53c970d4cca0cfb1078979df 
+pubKey::04a5bb3b28466f578e6e93fbfd5f75cee1ae86033aa4bbea690e3312c087181eb366f9a1d1d6a437a9bf9fc65ec853b9fd60fa322be3997c47144eb20da658b3d1 
+hash:::159817a085f113d099d3d93c051410e9bfe043cc5c20e43aa9a083bf73660145 
+r:::38b7dac5ee932ac1bf2bc62c05b792cd93c3b4af61dc02dbb4b93dacb758123f 
+s:::08bf123eabe77480787d664ca280dc1f20d9205725320658c39c6c143fd5642d 
 v:::0
 ```
 
@@ -62,8 +62,7 @@ Note: The size of the signature result is 65 bytes:
 * `r` = 32 bytes
 * `s` = 32 bytes
 * `v` = 1 byte
-
-1. Full node verifies the signature once receiving a transaction; it generates an address with the value of `hash`, `r`, `s`, and `v`, then it compares with the address in the transaction.
+* Full node verifies the signature once receiving a transaction; it generates an address with the value of `hash`, `r`, `s`, and `v`, then it compares with the address in the transaction.
 
 ### Demo
 

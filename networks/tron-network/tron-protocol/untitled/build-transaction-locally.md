@@ -23,7 +23,7 @@ message raw {
   }
 ```
 
-> #### 📘Note：
+> ### 📘Note：
 >
 > Currently only RPC interface is supported.
 
@@ -173,7 +173,7 @@ After executing the above code, the result of querying this transaction informat
 }
 ```
 
-> #### 📘Note：
+> ### 📘Note：
 >
 > The information in the data field can be used as memo information \(the data is displayed in TronScan\), and the content is retrieved by Hex to String.
 

@@ -28,7 +28,6 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
 ### JSON-RPC Method Info <a id="json-rpc-method-info"></a>
 
-* * * 
 If using `eth_getLogs`to pull logs frequently WebSockets are recommended to push new logs as available.
 
 ## POSDAO Contracts <a id="posdao-contracts"></a>
@@ -49,9 +48,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
 #### OmniBridge Access <a id="omnibridge-access"></a>
 
-* 
-See the dropdown menu under Developer Resources and Tools for tutorials related to many of these tools.
-
+* See the dropdown menu under Developer Resources and Tools for tutorials related to many of these tools.
 * ​[Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
 * ​[TheGraph](https://thegraph.com/) supports xDai data indexing, querying and display.
 * ​[QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
@@ -69,7 +66,7 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 ### **Dashboards & Monitoring** <a id="dashboards-and-monitoring"></a>
 
 * ​[Dune Analytics](https://www.duneanalytics.com/): Dune supports xDai for data queries and custom dashboards. Visualize and compare data between contracts and chains \(xDai and Ethereum support\). Existing Dashboards:
-  * * 
+  * \* 
 * ​[Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * ​[Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
 * ​[Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
@@ -94,7 +91,7 @@ Tenderly Dashboard Gas Profiler example
 * **General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)​
 * **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience. [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)​
 * **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) wss://dai-trace-ws.blockscout.com/ws
-* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) https://dai-trace-ws.blockscout.com
+* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) [https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
 * * **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)​
 * **Anyblock Index** \(aka [http://eth.events](http://eth.events/)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)​
 * 

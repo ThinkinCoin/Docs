@@ -12,7 +12,7 @@ Since these tests are meant only as a basic test of VM operation, the `CALL` and
 
 It is generally expected that the test implementer will read `env`, `exec` and `pre` then check their results against `gas`, `logs`, `out`, `post` and `callcreates`. If an exception is expected, then latter sections are absent in the test. Since the reverting of the state is not part of the VM tests.
 
-### Basic structure[¶]()
+## Basic structure[¶](vm-tests.md)
 
 ```text
 {
@@ -40,7 +40,7 @@ It is generally expected that the test implementer will read `env`, `exec` and `
 }
 ```
 
-### Sections[¶]()
+## Sections[¶](vm-tests.md)
 
 The `env` section:
 
@@ -91,5 +91,5 @@ Finally, there are two simple keys, `gas` and `output`:
 
 * The types are: 1. number - \(unsigned 64bit\) 2. “longnumber” - \(any long number\) 3. “0xhex\_num” - \(hex format number\)
 
-  > e.g: `````````[1, 2, 10000, "0xabc345dFF", "199999999999999999999999999999999999999"]`````````
+  > e.g: `[1, 2, 10000, "0xabc345dFF", "199999999999999999999999999999999999999"]`
 

@@ -8,7 +8,7 @@ In previous sections we have seen how contracts can be written, deployed and int
 
 An Ethereum node offers a [RPC](https://wikipedia.org/wiki/Remote_procedure_call) interface. This interface gives Ðapp’s access to the Ethereum blockchain and functionality that the node provides, such as compiling smart contract code. It uses a subset of the [JSON-RPC 2.0](http://www.jsonrpc.org/specification) specification \(no support for notifications or named parameters\) as serialisation protocol and is available over HTTP and IPC \(unix domain sockets on linux/OSX and named pipe’s on Windows\).
 
-If you are not interested in the details but are looking for an easy to use javascript library you can skip the following sections and continue with [Using Web3]().
+If you are not interested in the details but are looking for an easy to use javascript library you can skip the following sections and continue with [Using Web3](accessing-contracts-and-transactions.md).
 
 ### Conventions
 
@@ -208,11 +208,11 @@ See for more information the [web3.js](https://github.com/ethereum/wiki/wiki/Jav
 
 ### Console
 
-The geth [console](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console) offers a command line interface with a javascript runtime. It can connect to a local or remote geth or eth node. It will load the web3.js library that users can use. This allows users to deploy and interact with smart contract from the console using web3.js. In fact the examples in the [Web3.js]() section can by copied into the console.
+The geth [console](https://github.com/ethereum/go-ethereum/wiki/JavaScript-Console) offers a command line interface with a javascript runtime. It can connect to a local or remote geth or eth node. It will load the web3.js library that users can use. This allows users to deploy and interact with smart contract from the console using web3.js. In fact the examples in the [Web3.js](accessing-contracts-and-transactions.md) section can by copied into the console.
 
 ### Viewing Contracts and Transactions
 
-There are several online blockchain explorers available that will allow you to inspect the Ethereum blockchain. See for a list: [Blockchain explorers]().
+There are several online blockchain explorers available that will allow you to inspect the Ethereum blockchain. See for a list: [Blockchain explorers](accessing-contracts-and-transactions.md).
 
 #### Other Resources
 

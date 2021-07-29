@@ -23,7 +23,7 @@ This is a first step to introduce your proposal and provide reasoning for why yo
 
 This can be a simple proposal to assess community sentiment. It should reference your proposal in step 1. If there is not a need for faster resolution, set for at least 1 week to get community engagement. 🔗 [xDai Snapshot Link](https://snapshot.org/#/xdaistake.eth) ⌚ Voting Period: 1 week suggested duration \(can be expedited when required\) ☑ Proposals that don't receive a yes vote, or are not engaged with will not be considered for the next step. Proposals that do see broad support will be considered for the governance board. ⚖ [How to create and vote on a Snapshot Proposal with STAKE](https://www.xdaichain.com/for-users/governance/stake-weighted-voting)​
 
-### 3\) Forward Proposal Status for Governance Vote  <a id="3-forward-proposal-status-for-governance-vote"></a>
+### 3\) Forward Proposal Status for Governance Vote <a id="3-forward-proposal-status-for-governance-vote"></a>
 
 Reach out to the xDai team \(tag in your forum post or on [discord](https://discord.gg/mPJ9zkq)\) to let them know your proposal status. Depending on the nature and type of proposal the team will provide feedback and discuss internally regarding technical merits, ability to implement, internal priorities etc. If the proposal requires code modifications or changes to mechanisms requiring bridge signatures, it can be forwarded to the governance board \(see below\) for an inclusion vote. Results of the vote will be shared with the community once it is complete.
 
@@ -43,7 +43,6 @@ At present there are 13 governors who are responsible for managing bridge operat
 
 All actions are managed through Gnosis Safe accounts, one on the Ethereum mainnet for Ethereum contract side operations and one on xDai for xDai contract operations.
 
-* * * 
 ### Current Governing Board <a id="current-governing-board"></a>
 
 Several additional candidates are in review.

@@ -34,7 +34,7 @@ Community members can [submit governance proposals and vote with STAKE through S
 
 In future iterations, holders will have the opportunity to use STAKE in a micro-governance context to determine things like transaction sequencing and priority on a per-block basis, giving a true community voice to the txs written directly to the chain. Value capture related to this concept, known as [Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788), will give STAKE an intrinsic and important purpose when Eth 2.0 is ready for production.
 
- STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks.
+STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks.
 
 ​
 

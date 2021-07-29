@@ -13,3 +13,4 @@ Fantom requires validator nodes to lock-up at least 1,000,000 FTM \(Fantom's nat
 ## More info <a id="more-info"></a>
 
 * * 
+

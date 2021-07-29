@@ -10,7 +10,7 @@ So basically this .json tests are just to check how this function is calculated 
 
 There are several test files:`difficulty.json`Normal Frontier/Homestead chain difficulty tests defined manually`difficultyFrontier.json`Same as above, but auto-generated tests`difficultyMorden.json`Tests for testnetwork difficulty. \(it has different homestead transition block\)`difficultyOlimpic.json`Olympic network. \(no homestead\)`difficultyHomestead.json`Tests for homestead difficulty \(regardless of the block number\)`difficultyCustomHomestead.json`Tests for homestead difficulty \(regardless of the block number\)
 
-## Basic structure[¶]()
+## Basic structure[¶](difficulty-tests.md)
 
 ```text
 {
@@ -24,7 +24,7 @@ There are several test files:`difficulty.json`Normal Frontier/Homestead chain di
 }
 ```
 
-## Sections[¶]()
+## Sections[¶](difficulty-tests.md)
 
 * `parentTimestamp` - indicates the timestamp of a previous block
 * `parentDifficulty` - indicates the difficulty of a previous block

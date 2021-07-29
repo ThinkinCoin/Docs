@@ -1,7 +1,5 @@
 # Query TRX balance
 
-
-
 **HTTP API：**HTTP
 
 ```text

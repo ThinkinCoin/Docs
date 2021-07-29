@@ -87,7 +87,7 @@ curl -X POST https://api.shasta.trongrid.io/wallet/triggersmartcontract  -d '{
 
 The parameter is to encode the address and uint256 in transfer\(address,uint256\), please refer to the [parameter encoding and decoding document](https://developers.tron.network/docs/parameter-and-return-value-encoding-and-decoding) for details.
 
-> #### 📘Note
+> ### 📘Note
 >
 > After calling this HTTP API, signing and broadcast APIs should also be called.
 
@@ -110,7 +110,7 @@ curl -X POST https://api.shasta.trongrid.io/wallet/triggersmartcontract  -d '{
 
 The parameter is to encode the address and uint256 in transfer\(address,uint256\), please refer to the parameter encoding and decoding document for details.
 
-> #### 📘Note
+> ### 📘Note
 >
 > After calling this HTTP API, signing and broadcast APIs should also be called.
 

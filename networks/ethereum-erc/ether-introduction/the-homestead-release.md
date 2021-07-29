@@ -1,12 +1,12 @@
 # The Homestead Release
 
- [Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
+[Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
 
-## The Homestead Release[¶]()
+## The Homestead Release[¶](the-homestead-release.md)
 
 Homestead is the second major version of the Ethereum platform and is the first production release of Ethereum. It includes several protocol changes and a networking change that provides the ability to do further network upgrades. The first version of Ethereum, called the Frontier release, was essentially a beta release that allowed developers to learn, experiment, and begin building Ethereum decentralized apps and tools.
 
-### Milestones of the Ethereum development roadmap[¶]()
+### Milestones of the Ethereum development roadmap[¶](the-homestead-release.md)
 
 The [original development roadmap](https://blog.ethereum.org/2015/03/03/ethereum-launch-process/) laid out before Ethereum went live specified the following milestones:
 
@@ -22,7 +22,7 @@ If you are running a node connected to the live network, it is important that yo
 
 Once the Ethereum blockchain reaches block 1,150,000, the Ethereum network will undergo a hardfork enabling a few major changes such as explained in the following section.
 
-### Homestead hard fork changes[¶]()
+### Homestead hard fork changes[¶](the-homestead-release.md)
 
 Ethereum in the narrow formal sense is a suite of protocols. Homestead comes with a few backward-incompatible protocol changes, and therefore will require a hard fork. These changes that made their way through the process for [Ethereum Improvement Proposals](https://ethdocs.org/en/latest/introduction/community.html#ethereum-improvement-proposals) and included are:
 

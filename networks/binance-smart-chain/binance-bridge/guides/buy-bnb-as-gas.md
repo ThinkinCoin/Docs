@@ -46,7 +46,7 @@ The actual amount of network fee you have to pay is _**network fee\*\(1-discount
 
 ​
 
-### 6. You can also verify the order process from the “History” board.  <a id="6-you-can-also-verify-the-order-process-from-the-history-board"></a>
+### 6. You can also verify the order process from the “History” board. <a id="6-you-can-also-verify-the-order-process-from-the-history-board"></a>
 
 ![](https://lh4.googleusercontent.com/74FfAjGt-NItSTjwNkBXFLTpLkkOGf7LGZ_ZyIpYusreWvvHilqFlgiL8Npl_gDAZfXOCcb60KfK_E3eZa4kE9V_AbiRTHN-L7MUmpEdhyg8K4jdrdJmyP-qn-iQ-8OliCXm_g-2)
 

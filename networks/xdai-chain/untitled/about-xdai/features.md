@@ -18,7 +18,7 @@ The xDai chain provides a vital public utility for users - the ability to transf
 
 Open governance, open access, and token stability create a trusted environment for users as well as applications built on top of xDai.
 
-## Scalability  <a id="scalability"></a>
+## Scalability <a id="scalability"></a>
 
 xDai supports low cost, stable transactions for projects and users. high Ethereum gas prices and congestion have made it difficult for the ecosystem to function efficiently. xDai provides a compatible chain for projects requiring nano-transactions or complex transactions that may be prohibitively expensive on Ethereum. xDai can scale both vertically \(infrastructure and chain parameter optimization\) and horizontally \(additional chain deployments\) to meet capacity requirements.
 
@@ -45,3 +45,4 @@ Additional bridges exist to move tokens between xDai and other EVM chains, inclu
 View tokens bridged to xDai from Ethereum with the [OmniBridge UI](https://xdai-omnibridge.web.app/) built by [RaidGuild](https://raidguild.org/).
 
 * * 
+

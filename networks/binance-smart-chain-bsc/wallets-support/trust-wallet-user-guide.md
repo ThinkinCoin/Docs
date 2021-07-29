@@ -15,8 +15,7 @@ IMPORTANT: There is no way to change or recover your 12 word phrase if it's lost
 If you lose your recovery phrase you will lose your funds with it.  
 Trust Wallet is completely different from traditional bank accounts.  
 You are the true owner of your “Money”, Trust Wallet can never access your coins.  
-It is technically not possible for us to recover wallets since we do not have access to your recovery phrase **\(only your 12 word recovery phrase can be used to restore access to your wallet\)**.  
-
+It is technically not possible for us to recover wallets since we do not have access to your recovery phrase **\(only your 12 word recovery phrase can be used to restore access to your wallet\)**.
 
 **Step 3.** Before you finish the step of creating the wallet, verify that you wrote down the 12 word phrase in the correct order.
 

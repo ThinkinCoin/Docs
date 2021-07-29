@@ -2,7 +2,7 @@
 
 Describes a complete transaction and its [RLP](https://github.com/ethereum/wiki/wiki/RLP) representation using the .json file. The client should read the rlp and check whether the transaction is valid, has the correct sender and corresponds to the transaction parameters. If it is an invalid transaction, the transaction and the sender object will be missing.
 
-### Basic structure
+## Basic structure
 
 ```text
 {
@@ -30,7 +30,7 @@ Describes a complete transaction and its [RLP](https://github.com/ethereum/wiki/
 }
 ```
 
-### Sections
+## Sections
 
 * `rlp` - RLP encoded data of this transaction
 * `transaction` - transaction described by fields

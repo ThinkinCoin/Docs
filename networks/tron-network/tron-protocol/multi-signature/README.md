@@ -250,7 +250,7 @@ public static void main(String[] args) {
   list.forEach(e -> {
     operations[e / 8] |= (1 << e % 8);
   });
-  
+
   //7fff1fc0037e0000000000000000000000000000000000000000000000000000
   System.out.println(ByteArray.toHexString(operations));
 }
@@ -274,7 +274,7 @@ For detailed interface description, please see Tron-http.md and wave field walle
 
 ```text
 curl -X POST  http://127.0.0.1:8090/wallet/addtransactionsign -d '{"transaction": "TransferContract", "privateKey": "permissionkey1"}'
- 
+
 rpc AddSign (TransactionSign) returns (TransactionExtention) {}
 ```
 
@@ -282,7 +282,7 @@ rpc AddSign (TransactionSign) returns (TransactionExtention) {}
 
 ```text
 curl -X POST  http://127.0.0.1:8090/wallet/getapprovedlist -d '{"transaction"}'
- 
+
 rpc GetTransactionApprovedList(Transaction) returns (TransactionApprovedList) { }
 ```
 
@@ -290,7 +290,7 @@ rpc GetTransactionApprovedList(Transaction) returns (TransactionApprovedList) { 
 
 ```text
 curl -X POST  http://127.0.0.1:8090/wallet/getsignweight -d '{"transaction"}'
- 
+
 rpc GetTransactionSignWeight (Transaction) returns (TransactionSignWeight) {}
 ```
 

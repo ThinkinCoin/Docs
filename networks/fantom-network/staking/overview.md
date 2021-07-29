@@ -16,6 +16,5 @@ To get an estimate for potential rewards, please use our [reward calculator](htt
 
 There are two ways to participate in staking
 
-* * 
-Running a Validator Node earns more rewards but requires active management and DevOps experience.
+* * Running a Validator Node earns more rewards but requires active management and DevOps experience.
 

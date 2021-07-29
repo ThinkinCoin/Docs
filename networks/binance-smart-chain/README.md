@@ -1,7 +1,5 @@
 # Binance Smart Chain
 
-
-
 ![img](https://community.binance.org/assets/uploads/files/1587108834388-blog-en-2.png)
 
 Binance Smart Chain is an innovative solution to bring programmability and interoperability to Binance Chain. Binance Smart Chain relies on a system of 21 validators with Proof of Staked Authority \(PoSA\) consensus that can support short block time and lower fees. The most bonded validator candidates of staking will become validators and produce blocks. The double-sign detection and other slashing logic guarantee security, stability, and chain finality.

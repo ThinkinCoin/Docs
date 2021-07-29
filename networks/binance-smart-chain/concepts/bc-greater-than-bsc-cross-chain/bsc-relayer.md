@@ -8,7 +8,7 @@ GitHub Implementation link: [https://github.com/binance-chain/bsc-relayer](https
 
 Config Files: [https://github.com/binance-chain/bsc-relayer-config](https://github.com/binance-chain/bsc-relayer-config)
 
-### Monitor and Parse Cross Chain Event <a id="monitor-and-parse-cross-chain-event"></a>
+## Monitor and Parse Cross Chain Event <a id="monitor-and-parse-cross-chain-event"></a>
 
 As a BSC relayer, it must have proper configurations on the following three items:
 
@@ -45,9 +45,9 @@ BSC relayer should iterate all the attributes and parse the attribute value:
 
 1. Filter out attributes with mismatched destination chain CrossChainID.
 
-### Build Tendermint Header and Query Cross Chain Package <a id="build-tendermint-header-and-query-cross-chain-package"></a>
+## Build Tendermint Header and Query Cross Chain Package <a id="build-tendermint-header-and-query-cross-chain-package"></a>
 
-#### Build Tendermint Header <a id="build-tendermint-header"></a>
+### Build Tendermint Header <a id="build-tendermint-header"></a>
 
 ```text
 import tmtypes "github.com/tendermint/tendermint/types"
@@ -93,7 +93,7 @@ Header Encoding in golang:
    }
    ```
 
-#### Query Cross Chain Package With Merkle Proof <a id="query-cross-chain-package-with-merkle-proof"></a>
+### Query Cross Chain Package With Merkle Proof <a id="query-cross-chain-package-with-merkle-proof"></a>
 
 1. Query height: **H**
 2. Query path: **/store/ibc/key**
@@ -113,15 +113,15 @@ Header Encoding in golang:
    {rpcEndpoint}/abci_query?path={queryPath}&data={queryKey}&height={queryHeight}&prove=true
    ```
 
-### Call Build-In System Contract <a id="call-build-in-system-contract"></a>
+## Call Build-In System Contract <a id="call-build-in-system-contract"></a>
 
-#### Sync BC Header <a id="sync-bc-header"></a>
+### Sync BC Header <a id="sync-bc-header"></a>
 
 * function **syncTendermintHeader**\(bytes calldata header, uint64 height\)
 
   Call **syncTendermintHeader** of TendermintLightClient contract to sync BC header. The contract address is 0x0000000000000000000000000000000000001003. The “header” is the encoding result of **Header** and the height should be **H+1**
 
-#### Deliver Cross Chain Package <a id="deliver-cross-chain-package"></a>
+### Deliver Cross Chain Package <a id="deliver-cross-chain-package"></a>
 
 Call **handlePackage** of crosschain contract\(0x0000000000000000000000000000000000002000\) to deliver the cross chain packages:
 
@@ -133,7 +133,7 @@ Call **handlePackage** of crosschain contract\(0x0000000000000000000000000000000
 | packageSequence | uint64 | sequence from attribution value |
 | channelId | uint64 | channle id |
 
-### Incentives Mechanism <a id="incentives-mechanism"></a>
+## Incentives Mechanism <a id="incentives-mechanism"></a>
 
 [BSC Relayer Incentive Mechanism](https://docs.binance.org/smart-chain/guides/concepts/incentives.html)
 

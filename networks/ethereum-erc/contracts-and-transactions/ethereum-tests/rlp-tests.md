@@ -1,8 +1,8 @@
 # RLP Tests
 
- [Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
+[Ethereum Homestead](https://ethdocs.org/en/latest/index.html)
 
-## RLP Tests[¶]()
+## RLP Tests[¶](rlp-tests.md)
 
 Describes an **RLP** \([https://github.com/ethereum/wiki/wiki/RLP](https://github.com/ethereum/wiki/wiki/RLP)\) encoding using the .json file. The client should read the rlp byte stream, **decode** and check whether the contents match its json representation. Then it should try do it reverse - **encode** json rlp representation into rlp byte stream and check whether it matches the given rlp byte stream.
 
@@ -14,7 +14,7 @@ RLP tests are located in in `/RLPTests`
 
 **Note** that RLP tests are testing a single RLP object encoding. Not a stream of RLP objects in one array.
 
-### Basic structure[¶]()
+### Basic structure[¶](rlp-tests.md)
 
 ```text
 {
@@ -41,7 +41,7 @@ RLP tests are located in in `/RLPTests`
 }
 ```
 
-### Sections[¶]()
+### Sections[¶](rlp-tests.md)
 
 * `in` - json object \(array, int, string\) representation of the rlp byte stream \(\*except values ‘VALID’ and ‘INVALID’\)
 * `out` - string of rlp bytes stream

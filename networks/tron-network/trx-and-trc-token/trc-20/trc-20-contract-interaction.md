@@ -584,6 +584,5 @@ ownerAddress: calller address
 contractAdress：TRC20 contract address  
 method： contract function  
 args：function parameters，If there is no parameter,use \# placeholder  
-isHex： whether the address of the command parameter is in hex format  
-
+isHex： whether the address of the command parameter is in hex format
 

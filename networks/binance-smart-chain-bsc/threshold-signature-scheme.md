@@ -18,7 +18,7 @@ Combining TSS feature with Binance Chain client will help users manage their fun
 
 Many development resources have been poured into implementing TSS, a cryptographic protocol for distributed key generation and signing. TSS is now compatible and reusable for ECDSA-based blockchains, including Binance Chain, Bitcoin, and Ethereum networks. We expect that members of the Binance ecosystem and partner community can integrate this TSS library with their applications, such as wallets and custodians, and further develop this exciting new technology.
 
-With the support of the Binance Chain community, we are happy to share the open-source code at https://github.com/binance-chain/tss-lib.
+With the support of the Binance Chain community, we are happy to share the open-source code at [https://github.com/binance-chain/tss-lib](https://github.com/binance-chain/tss-lib).
 
 ## Security Audit <a id="security-audit"></a>
 
@@ -50,7 +50,7 @@ You can download tss client and Binance Chain Commandline here: \* Mainnet: [htt
 cp -r ~/.bnbcli ~/.bnbcli_backup_tss (replace ~/.bnbcli with their bnbcli home)
 ```
 
- Please refer to this [Example]() to help you understand the whole process
+Please refer to this [Example](threshold-signature-scheme.md) to help you understand the whole process
 
 ### Init <a id="init"></a>
 
@@ -186,7 +186,7 @@ To add a tss key into bnbcli’s keystore: 1. Tss keygen command will automatica
 bnbcli keys add --home ~/.customized_cli --tss -t tss --tss-home ~/.test1 --tss-vault “default” my_name
 ```
 
- All other commands \(i.e. send token, place order, delete key etc.\) of bnbcli should support tss type key.
+All other commands \(i.e. send token, place order, delete key etc.\) of bnbcli should support tss type key.
 
 ## Example <a id="example"></a>
 
@@ -229,7 +229,7 @@ In this steo, A and B decided to sign a transaction together. Both A and B will 
 
 |  | A | B | C |
 | :--- | :--- | :--- | :--- |
-| command | tbnbcli send --amount 1000000:BNB --to tbnb1mh3w2kxmdmnvctt7t5nu7hhz9jnp422edqdw2d --from tss\_tss1\_vault1 --chain-id Binance-Chain-Ganges --node https://data-seed-pre-0-s1.binance.org:443 --trust-node | tbnbcli send --amount 1000000:BNB --to tbnb1mh3w2kxmdmnvctt7t5nu7hhz9jnp422edqdw2d --from tss\_tss2\_vault1 --chain-id Binance-Chain-Ganges --node https://data-seed-pre-0-s1.binance.org:443 --trust-node | NA |
+| command | tbnbcli send --amount 1000000:BNB --to tbnb1mh3w2kxmdmnvctt7t5nu7hhz9jnp422edqdw2d --from tss\_tss1\_vault1 --chain-id Binance-Chain-Ganges --node [https://data-seed-pre-0-s1.binance.org:443](https://data-seed-pre-0-s1.binance.org:443) --trust-node | tbnbcli send --amount 1000000:BNB --to tbnb1mh3w2kxmdmnvctt7t5nu7hhz9jnp422edqdw2d --from tss\_tss2\_vault1 --chain-id Binance-Chain-Ganges --node [https://data-seed-pre-0-s1.binance.org:443](https://data-seed-pre-0-s1.binance.org:443) --trust-node | NA |
 | Interactive input | Password to sign with tss\_tss1\_vault1: \[Enter password\] &gt; Channel id: 5185D3EF597 please input password \(AGREED offline with peers\) of this session: \[Enter password\] | Password to sign with tss\_tss2\_vault1: \[Enter password\] &gt; Channel id: 5185D3EF597 please input password \(AGREED offline with peers\) of this session: \[Enter password\] | N/A |
 | output | Committed at block 33600477 \(tx hash: 4FB8096A93D545612A3B5DCE520622608C299C7742103A6BE34C444829BD83A5 | ERROR: broadcast\_tx\_commit: Response error: RPC error -32603 - Internal error: Error on broadcastTxCommit: Tx already exists in cache | N/A |
 | Files touched or generated | N/A | N/A | N/A |

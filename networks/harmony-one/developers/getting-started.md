@@ -20,8 +20,7 @@ Harmony uses [bech32](https://en.bitcoin.it/wiki/Bech32) address format with `on
 ### Development environments <a id="development-environments"></a>
 
 * Several development environments exists: [mainnet, testnnet, localnet](https://docs.harmony.one/home/developers/api#development-environments)​
-* * 
-We provide SDKs in several different languages. However most feature complete is our JavaScript SDK, which is the preferred language for DApp development.
+* * We provide SDKs in several different languages. However most feature complete is our JavaScript SDK, which is the preferred language for DApp development.
 
 ### Using SDKs to interact with Harmony blockchian <a id="using-sdks-to-interact-with-harmony-blockchian"></a>
 
@@ -31,16 +30,14 @@ We provide SDKs in several different languages. However most feature complete is
 
 ## How to deploy a smart contract on Harmony? <a id="how-to-deploy-a-smart-contract-on-harmony"></a>
 
-* * * 
 ## How to create a simple DApp on Harmony? <a id="how-to-create-a-simple-dapp-on-harmony"></a>
 
-* * 
-Many other examples and DApps can be found in the [SDK repo](https://github.com/harmony-one/sdk) and under [showcases](https://docs.harmony.one/home/showcases).
+* * Many other examples and DApps can be found in the [SDK repo](https://github.com/harmony-one/sdk) and under [showcases](https://docs.harmony.one/home/showcases).
 
 ## Resources <a id="resources"></a>
 
 * ​[talk.harmony.one](https://talk.harmony.one/c/developers/31) - for reporting issues, asking questions, or interact with other developers
-* * * * 
+
 ## Known Limitations <a id="known-limitations"></a>
 
 * **Only cross-shard native token \(ONE token\) transfers** are allowed. No cross-shard for HRC20 or other contracts. Meaning, smart contracts are deployed on shard-0 and all contract interactions happen on shard-0. Contracts can still be deployed on other shards, however they won't be able to interact with contracts in other shards. We have cross-shard smart contract on our roadmap for Q3, 2021.

@@ -1,6 +1,6 @@
 # A Guide to Think in Coin \| Binance Academy
 
-**TL;DR** 
+**TL;DR**
 
 Another food-themed DeFi protocol? You know it. PancakeSwap is a Binance Smart Chain-based DEX launched by anonymous devs with a penchant for breakfast foods and rabbits.
 
@@ -24,7 +24,7 @@ Familiar with [Uniswap](https://academy.binance.com/en/articles/what-is-uniswap-
 
 PancakeSwap uses an [automated market maker \(AMM\)](https://academy.binance.com/en/articles/what-is-an-automated-market-maker-amm) model. That means that while you can trade digital assets on the platform, there isn’t an order book where you’re matched with someone else. Instead, you trade against a [liquidity pool](https://academy.binance.com/en/articles/what-are-liquidity-pools-in-defi).
 
-Those pools are filled with other users’ funds. They deposit them into the pool, receiving liquidity provider \(or LP\) tokens in return. They can use those tokens to reclaim their share, plus a portion of the trading fees. 
+Those pools are filled with other users’ funds. They deposit them into the pool, receiving liquidity provider \(or LP\) tokens in return. They can use those tokens to reclaim their share, plus a portion of the trading fees.
 
 So, in short, you can trade BEP-20 tokens, or add liquidity and earn rewards. There are also other features we’ll cover later.
 
@@ -55,7 +55,7 @@ So you’ve deposited some funds to receive LP tokens, and you’ve used them to
 
 The biggest SYRUP pool is simply for CAKE, where you can stake your CAKE to earn even more CAKE! But there are many more tokens you can earn by staking CAKE, so be sure to keep an eye on the [SYRUP pool](https://pancakeswap.finance/pools) page.
 
-You’ll notice if you visit [https://pancakeswap.finance](https://pancakeswap.finance/) that many features are inaccessible until you click on Unlock Wallet. Click on it, and you’ll be met with a few options: MetaMask, Trust Wallet, WalletConnect, Binance Chain Wallet, and other options. 
+You’ll notice if you visit [https://pancakeswap.finance](https://pancakeswap.finance/) that many features are inaccessible until you click on Unlock Wallet. Click on it, and you’ll be met with a few options: MetaMask, Trust Wallet, WalletConnect, Binance Chain Wallet, and other options.
 
 But wait, we hear you say, isn’t MetaMask an Ethereum wallet?
 

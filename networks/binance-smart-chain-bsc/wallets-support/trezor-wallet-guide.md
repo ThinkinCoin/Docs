@@ -10,7 +10,7 @@ Please note that the Trezor Model One is not supported yet.
 
 ## Requirements
 
-In order to use a Trezor with Binance Chain and Binance DEX, you will need: \* A supported web browser: Chrome or Firefox \* Access to the Binance Chain web wallet \(https://binance.org/unlock\) using your web browser \* An initialized Trezor Model T device with the most recent firmware updates installed \* The Trezor Bridge application installed on your computer
+In order to use a Trezor with Binance Chain and Binance DEX, you will need: \* A supported web browser: Chrome or Firefox \* Access to the Binance Chain web wallet \([https://binance.org/unlock\](https://binance.org/unlock\)\) using your web browser \* An initialized Trezor Model T device with the most recent firmware updates installed \* The Trezor Bridge application installed on your computer
 
 ### App Installation Instructions <a id="app-installation-instructions"></a>
 
@@ -76,7 +76,7 @@ Please make sure that you have seed phrase backed up.
 
 ![img](https://lh6.googleusercontent.com/qQ2Leiu4z95Yx6TilYswNwzncWSmoiXTqYcZDbkHE1m4emYiDKC9VMl-NoYPNEKog-JZoWziwKVuiMYJxP1cafMiKOXViiAtl0tA4RXiLtqBSUInAHu9ZSzDbmQDmWEk7KZREiN2)
 
-3\) Confirm to give permission 
+3\) Confirm to give permission
 
 ![img](https://lh3.googleusercontent.com/xBRZ3hZzhgzrDCuX8q6yeHIJvL2I0XM-R9aDQF9_1Hl-ey1G0l0dv-qWLT2v0T25E37uoPafHuGgyc7UpWJ5EPeTiD-0d7JoNgc_nCM7cKdJW2s3ia8y6g6f6zaQLwCo1pWMJK-O)
 
@@ -106,5 +106,5 @@ Please make sure that you have seed phrase backed up.
 
 ![img](https://lh6.googleusercontent.com/G44kc4A5tNPC-km-ofY_gmZ9k8BlME00GGPrwGD2CBdOHr74kkx62V43htZlJ6MGtnJn0qIhPEg6pJZtVMURlYyyqrWLjZ1sD_jdN36pPXs8rIcz9In_fQ7eO8LOl9cSgVJzfHOG)
 
-Reference: https://wiki.trezor.io/User\_manual
+Reference: [https://wiki.trezor.io/User\_manual](https://wiki.trezor.io/User_manual)
 

@@ -12,7 +12,7 @@ contracts: A collection of contract objects. keys represents contracts name. val
 
 Check the JavaScript API Reference for further information.
 
-## Using the JS console to add transactions and local calls[¶]()
+## Using the JS console to add transactions and local calls[¶](javascript-console.md)
 
 In case the name of the contract is “Sample” with a function named “set”, it is possible to make a transaction to call “set” by writing:
 
@@ -28,6 +28,4 @@ contracts["Sample"].contract.get.call()
 
 It is also possible to use all properties and functions of the web3 object:  
 [https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
-
-
 

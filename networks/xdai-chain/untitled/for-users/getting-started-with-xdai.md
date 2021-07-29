@@ -8,7 +8,7 @@ To get started on xDai, you will need to setup your externally owned address \(w
 * See the [MetaMask Setup tutorial](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) for example steps and configuration.
 * * See the [wallets section](wallets.md) for additional wallets that support xDai out of the box and don't require configuration.
 
-## 2\) Get a Little xDai  <a id="2-get-a-little-xdai"></a>
+## 2\) Get a Little xDai <a id="2-get-a-little-xdai"></a>
 
 * * Convert Dai on Ethereum to xDai with the [xDai bridge](https://www.xdaichain.com/for-users/bridges/converting-xdai-via-bridge) or use the [Rubic.exchange](https://rubic.exchange/) bridge.
 * * With Fiat using the [Ramp Network](https://www.xdaichain.com/for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network) or [Mt Pelerin](https://www.xdaichain.com/for-users/get-xdai-tokens/buying-xdai-with-fiat/mt-pelerin)​

@@ -2,7 +2,7 @@
 
 Variable-cap assets are fungible tokens for which additional quantities can be minted after creation.
 
- This contract is designed to be unopinionated, allowing developers to access the internal functions in ERC20 \(such as [\_mint](https://docs.openzeppelin.com/contracts/3.x/api/token/erc20#ERC20-_mint-address-uint256-)\) and expose them as external functions in the way they prefer. On the other hand, [ERC20 Presets](https://docs.openzeppelin.com/contracts/3.x/erc20#Presets) \(such as [ERC20PresetMinterPauser](https://docs.openzeppelin.com/contracts/3.x/api/presets#ERC20PresetMinterPauser)\) are designed using opinionated patterns to provide developers with ready to use, deployable contracts.
+This contract is designed to be unopinionated, allowing developers to access the internal functions in ERC20 \(such as [\_mint](https://docs.openzeppelin.com/contracts/3.x/api/token/erc20#ERC20-_mint-address-uint256-)\) and expose them as external functions in the way they prefer. On the other hand, [ERC20 Presets](https://docs.openzeppelin.com/contracts/3.x/erc20#Presets) \(such as [ERC20PresetMinterPauser](https://docs.openzeppelin.com/contracts/3.x/api/presets#ERC20PresetMinterPauser)\) are designed using opinionated patterns to provide developers with ready to use, deployable contracts.
 
 name\(\)
 

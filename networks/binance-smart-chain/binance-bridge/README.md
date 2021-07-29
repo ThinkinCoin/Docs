@@ -12,13 +12,12 @@ Recently, Binance.com [announced](https://www.binance.com/en/support/articles/da
 
 ## Proof of Asset <a id="proof-of-asset"></a>
 
- [View Proof of Assets](https://www.binance.org/en/assets-proof)​
+[View Proof of Assets](https://www.binance.org/en/assets-proof)​
 
 As the largest crypto token vault and exchange, Binance.com will issue and bind more token assets on Binance Chain and Binance Smart Chain, and guarantee the conversion from and to the original tokens with credibility and infrastructure.
 
 ## Wallet Support <a id="wallet-support"></a>
 
-* * * * 
 ## ​ <a id="undefined"></a>
 
 ​

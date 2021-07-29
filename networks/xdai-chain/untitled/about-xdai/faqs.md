@@ -4,7 +4,6 @@ We continue to add to our FAQs as new questions arise. If you have a question th
 
 See the FAQ sections below for topic based questions and answers:
 
-* * * * * * * 
 ## How do I find the information I need? <a id="how-do-i-find-the-information-i-need"></a>
 
 There is a lot to know about xDai, so we've split the website into several sections, depending on your role and what you info you might need to access.

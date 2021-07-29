@@ -38,4 +38,3 @@ Lachesis can be used to create any kind of private and public distributed ledger
 
 Here are some useful links to get you started:
 
-* * * * * 

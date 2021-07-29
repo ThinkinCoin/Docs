@@ -89,7 +89,7 @@ Or read the whitepaper for a deep dive
 Polygon architecture consists of four abstract, composable layers
 
 * ![](https://polygon.technology/wp-content/uploads/2021/02/illustrate-architecture.png)
-*  **Ethereum layer**
+* **Ethereum layer**
 
   Polygon chains can use Ethereum, the most secure programmable blockchain in the world, to host and execute any mission-critical component of their logic. This layer is implemented as a set of Ethereum smart contracts, in charge of functions like:
 
@@ -101,7 +101,7 @@ Polygon architecture consists of four abstract, composable layers
 
   Message relaying
 
-*  **Security layer**
+* **Security layer**
 
   A specialized, non-mandatory layer managing a set of validators that can periodically check the validity of any Polygon chain for a fee. This layer can be implemented as a meta-blockchain that runs in parallel to Ethereum, in charge of functions like:
 
@@ -112,7 +112,7 @@ Polygon architecture consists of four abstract, composable layers
 
   Security layer is fully abstract and can have multiple instances, implemented by different entities and with different characteristics. It can also be implemented directly on Ethereum, in which case the Ethereum miners perform the validation.
 
-*  **Polygon networks layer**
+* **Polygon networks layer**
 
   A constellation of sovereign blockchain networks. Each of the networks serves its respective community, maintaining functions like:
 
@@ -124,7 +124,7 @@ Polygon architecture consists of four abstract, composable layers
 
   The networks can utilize Polygon protocol to connect with each other and exchange arbitrary messages.
 
-*  **Execution layer**
+* **Execution layer**
 
   This layer interprets and executes transactions that are agreed upon and included in Polygon networks’ blockchains. It consists of two sublayers:
 
@@ -166,7 +166,7 @@ Conditional / Limited
 
 Conditional / Limited
 
-### Get started with Polygon  <a id="headline-134-10"></a>
+### Get started with Polygon <a id="headline-134-10"></a>
 
 Or read the whitepaper to learn more about our technology  
 crosschevron-down-circle

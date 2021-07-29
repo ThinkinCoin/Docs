@@ -27,7 +27,7 @@ Currently, the cost to get a BEP2 token listed on Binance DEX is quite expensive
 * **Maximum Supply**: BEP8 tokens can be categorized by its maximum supply, which could be either 10K or 1million. You have to pay for more for a larger maximum supply.
 * **Supply**: This amount of token will appear under the balance of token issuer
 * **Mintable**: Whether this token can be inflationary.
-* **Token URI**: you can paste URL of your project’s website or the URI points to a JSON file that conforms to the "Mini-BEP2 Metadata JSON Schema". https://docs.binance.org/guides/concepts/BEP8.html\#set-token-uri
+* **Token URI**: you can paste URL of your project’s website or the URI points to a JSON file that conforms to the "Mini-BEP2 Metadata JSON Schema". [https://docs.binance.org/guides/concepts/BEP8.html\#set-token-uri](https://docs.binance.org/guides/concepts/BEP8.html#set-token-uri)
 * Confirm Token Info
 
 ![img](https://lh6.googleusercontent.com/fBfSXxquRX2jxQ6yxH-ZWMyFoPbFY-e211kBEBuYvV4EEBajbBP2LeUeG3e_GxZ2BI91dULqDzbovVIJS8ktvZGP5uO-20fKaRkZ2TQqT3OC_dFs9rDxoXiMp0tOd041vlJp4vwR)
