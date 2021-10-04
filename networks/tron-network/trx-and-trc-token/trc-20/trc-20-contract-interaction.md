@@ -338,8 +338,8 @@ async function triggerSmartContract() {
         let contract = await tronWeb.contract().at(trc20ContractAddress);
         //Use send to execute a non-pure or modify smart contract method on a given smart contract that modify or change values on the blockchain.
         // These methods consume resources(bandwidth and energy) to perform as the changes need to be broadcasted out to the network.
-        let result await contract.transfer(
-            "TVDGp...", //address _to
+        let result = await contract.transfer(
+            address,  //address _to
             1000000   //amount
         ).send({
             feeLimit: 1000000
