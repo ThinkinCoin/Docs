@@ -41,10 +41,10 @@
       * [Savings blocked](tic-project/presentation/financial-resources/cefi/savings-blocked.md)
       * [Fixed Savings](tic-project/presentation/financial-resources/cefi/fixed-savings.md)
       * [Flexible Savings](tic-project/presentation/financial-resources/cefi/flexible-savings.md)
-      * [Launchpads \(Airdrops\)](tic-project/presentation/financial-resources/cefi/launchpads-airdrops.md)
+      * [Launchpads (Airdrops)](tic-project/presentation/financial-resources/cefi/launchpads-airdrops.md)
     * [Arbitrage](tic-project/presentation/financial-resources/arbitrage.md)
-    * [Market \(Leverage\)](tic-project/presentation/financial-resources/market-leverage.md)
-    * [Lending \(Rental\)](tic-project/presentation/financial-resources/lending-rental.md)
+    * [Market (Leverage)](tic-project/presentation/financial-resources/market-leverage.md)
+    * [Lending (LOAN)](tic-project/presentation/financial-resources/lending-rental.md)
 
 ## Governance
 
@@ -52,9 +52,9 @@
   * [MKR Token](governance/how-it-works/mkr-token.md)
   * [Auditing Executive Spells](governance/how-it-works/auditing-executive-spells.md)
   * [Curated Governance Tools](governance/how-it-works/curated-governance-tools.md)
-  * [Governance Risk Framework \(Part 1\)](governance/how-it-works/governance-risk-framework-part-1.md)
-  * [Governance Risk Framework \(Part 2\)](governance/how-it-works/governance-risk-framework-part-2.md)
-  * [Governance Risk Framework \(Part 3\)](governance/how-it-works/governance-risk-framework-part-3.md)
+  * [Governance Risk Framework (Part 1)](governance/how-it-works/governance-risk-framework-part-1.md)
+  * [Governance Risk Framework (Part 2)](governance/how-it-works/governance-risk-framework-part-2.md)
+  * [Governance Risk Framework (Part 3)](governance/how-it-works/governance-risk-framework-part-3.md)
   * [How Voting Works](governance/how-it-works/how-voting-works.md)
   * [Important Topics](governance/how-it-works/important-topics.md)
   * [Off-Chain Governance](governance/how-it-works/off-chain-governance.md)
@@ -62,7 +62,7 @@
   * [Voting Wallet Setup](governance/how-it-works/voting-wallet-setup.md)
   * [Emergency Shutdown](governance/how-it-works/emergency-shutdown.md)
   * [Governance FAQs](governance/how-it-works/governance-faqs.md)
-  * [Module - Debt Ceiling Instant Access Module \(DC-IAM\)](governance/how-it-works/module-debt-ceiling-instant-access-module-dc-iam.md)
+  * [Module - Debt Ceiling Instant Access Module (DC-IAM)](governance/how-it-works/module-debt-ceiling-instant-access-module-dc-iam.md)
   * [Module - Peg Stability Module](governance/how-it-works/module-peg-stability-module.md)
   * [Parameter - Auction Price Function](governance/how-it-works/parameter-auction-price-function.md)
   * [Parameter - Auction Price Multiplier](governance/how-it-works/parameter-auction-price-multiplier.md)
@@ -116,7 +116,7 @@
       * [TRC-721 Token Issuance](networks/tron-network/trx-and-trc-token/trc-721/trc-721-token-issuance.md)
       * [TRC-721 Contract Interaction](networks/tron-network/trx-and-trc-token/trc-721/trc-721-contract-interaction.md)
       * [Uploading NFT Metadata to BTFS Network](networks/tron-network/trx-and-trc-token/trc-721/uploading-nft-metadata-to-btfs-network.md)
-* [Ethereum \(ERC\)](networks/ethereum-erc/README.md)
+* [Ethereum (ERC)](networks/ethereum-erc/README.md)
   * [Ether - Introduction](networks/ethereum-erc/ether-introduction/README.md)
     * [The Ethereum Foundation](networks/ethereum-erc/ether-introduction/the-ethereum-foundation.md)
     * [Community](networks/ethereum-erc/ether-introduction/community.md)
@@ -189,7 +189,7 @@
     * [Consensus](networks/binance-smart-chain/concepts/consensus.md)
     * [Comparison](networks/binance-smart-chain/concepts/comparison.md)
     * [Genesis File](networks/binance-smart-chain/concepts/genesis-file.md)
-    * [BC &gt; BSC Cross-Chain](networks/binance-smart-chain/concepts/bc-greater-than-bsc-cross-chain/README.md)
+    * [BC > BSC Cross-Chain](networks/binance-smart-chain/concepts/bc-greater-than-bsc-cross-chain/README.md)
       * [Mechanism](networks/binance-smart-chain/concepts/bc-greater-than-bsc-cross-chain/mechanism.md)
       * [Cross-Chain Transfer](networks/binance-smart-chain/concepts/bc-greater-than-bsc-cross-chain/cross-chain-transfer.md)
       * [BSC Relayer](networks/binance-smart-chain/concepts/bc-greater-than-bsc-cross-chain/bsc-relayer.md)
@@ -302,7 +302,7 @@
     * [Covalent indexing and querying API](networks/fantom-network/api/covalent-indexing-and-querying-api.md)
   * [tutorials](networks/fantom-network/tutorials/README.md)
     * [Set up Metamask](networks/fantom-network/tutorials/set-up-metamask.md)
-    * [Set up Metamask \(testnet\)](networks/fantom-network/tutorials/set-up-metamask-testnet.md)
+    * [Set up Metamask (testnet)](networks/fantom-network/tutorials/set-up-metamask-testnet.md)
     * [Deploy a Smart Contract](networks/fantom-network/tutorials/deploy-a-smart-contract.md)
     * [Create a Fixed-cap Asset](networks/fantom-network/tutorials/create-a-fixed-cap-asset.md)
     * [Create a Variable-cap Asset](networks/fantom-network/tutorials/create-a-variable-cap-asset.md)
@@ -321,15 +321,15 @@
 
 ## Guides
 
-* [A Guide to Think in Coin \| Binance Academy](guides/binance-academy-guide.md)
+* [A Guide to Think in Coin | Binance Academy](guides/binance-academy-guide.md)
 * [How to use Think in Coin with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
 * [Use MetaMask For Binance Smart Chain](guides/metamask-bsc-chain-add.md)
 
 ## Tokenomics
 
 * [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Golden SYRUP \(Lottery\)](tokenomics/golden-syrup.md)
+* [SYRUP (Staking)](tokenomics/syrup.md)
+* [Golden SYRUP (Lottery)](tokenomics/golden-syrup.md)
 
 ## Useful information
 
@@ -352,11 +352,10 @@
 
 * [Twitter](community-social/untitled.md)
 * [Telegram](community-social/telegram.md)
-* [Blog \(Medium\)](community-social/blog-medium.md)
+* [Blog (Medium)](community-social/blog-medium.md)
 * [Github](community-social/github.md)
 * [Reddit](community-social/reddit.md)
 
 ## Wiki
 
 * [FAQ](wiki/faq.md)
-
