@@ -2,19 +2,19 @@
 
 ## Think in Coin Project
 
-### Obteniendo superpoderes
+### getting superpowers
 
-Convertirse en un superhéroe es un proceso bastante sencillo:
+Becoming a superhero is a very simple process:
 
-```text
+```
 $ give me super-powers
 ```
 
 {% hint style="info" %}
-Los superpoderes se otorgan al azar, así que envíe un problema si no está satisfecho con el suyo.
+The superpowers are given to chance, so send a problem if you are not satisfied with them.
 {% endhint %}
 
-Una vez que seas lo suficientemente fuerte, salva el mundo:
+Once you are strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash
@@ -22,4 +22,3 @@ Una vez que seas lo suficientemente fuerte, salva el mundo:
 echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
-
