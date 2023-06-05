@@ -1,9 +1,9 @@
 # Build transaction locally
 
-This example shows how to build a transaction locally.  
+This example shows how to build a transaction locally.\
 The local transaction construction is used to construct the internal data of the transaction. If the developer has requirements like the offline signature, transaction remarks, Etc, please refer to this article.JSON
 
-```text
+```
 message raw {
     bytes ref_block_bytes = 1;//Bytes between 6th and 8th (exclusive) of the latest block height
     int64 ref_block_num = 3;//block height, optional
@@ -23,7 +23,7 @@ message raw {
   }
 ```
 
-> ### 📘Note：
+> #### 📘Note：
 >
 > Currently only RPC interface is supported.
 
@@ -31,7 +31,7 @@ message raw {
 
 Here you can introduce a call environment for the RPC interface via [wallet-cli](https://github.com/tronprotocol/wallet-cli).Java
 
-```text
+```
 package org.tron.demo;
 
 import com.google.protobuf.Any;
@@ -136,7 +136,7 @@ public class TransactionSignDemo {
 
 After executing the above code, the result of querying this transaction information.gettransactionbyid
 
-```text
+```
 {
     "ret": [
         {
@@ -173,7 +173,6 @@ After executing the above code, the result of querying this transaction informat
 }
 ```
 
-> ### 📘Note：
+> #### 📘Note：
 >
-> The information in the data field can be used as memo information \(the data is displayed in TronScan\), and the content is retrieved by Hex to String.
-
+> The information in the data field can be used as memo information (the data is displayed in TronScan), and the content is retrieved by Hex to String.
