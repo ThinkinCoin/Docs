@@ -18,6 +18,6 @@ THIS TIME IS OVER.
 
 Now you must be your own bank. Enjoy it.
 
-![](.gitbook/assets/0\_3.png)
+![](.gitbook/assets/neurons.png)
 
 ## \*\*\*\*
