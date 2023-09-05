@@ -1,11 +1,25 @@
 # Table of contents
 
 * [Think in Coin](README.md)
-  * [Project Overview](readme/project-overview/README.md)
-    * [Significance](readme/project-overview/significance.md)
-    * [Purpose](readme/project-overview/purpose.md)
-    * [Project Objectives](readme/project-overview/project-objectives.md)
-    * [Scope](readme/project-overview/scope.md)
+  * [Overview](readme/overview/README.md)
+    * [Significance](readme/overview/significance.md)
+    * [Purpose](readme/overview/purpose.md)
+    * [Scope](readme/overview/scope.md)
+* [Project Plan](project-plan/README.md)
+  * [Requirements](project-plan/requirements.md)
+  * [Objectives](project-plan/objectives.md)
+  * [Risks](project-plan/risks.md)
+* [Stakeholders (TBD)](stakeholders-tbd.md)
+* [Architecture](architecture/README.md)
+  * [How the System Works](architecture/how-the-system-works.md)
+* [Design and User Interface](design-and-user-interface.md)
+* [Development](development/README.md)
+  * [Deployment](development/deployment.md)
+  * [Tests and Updates](development/tests-and-updates.md)
+* [Security](security.md)
+* [Communication Plan](communication-plan.md)
+* [Budget and Resources](budget-and-resources.md)
+* [Maintenance and Support](maintenance-and-support.md)
 
 ## Community / Social
 

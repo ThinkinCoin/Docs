@@ -1,4 +1,4 @@
-# Project Objectives
+# Objectives
 
 #### Bridge WEB2 and WEB3
 

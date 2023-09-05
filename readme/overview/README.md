@@ -1,4 +1,4 @@
-# Project Overview
+# Overview
 
 Think in Coin is an immersive academy that offers a diverse range of courses within the cryptocurrency domain. Its primary goal is to empower individuals with the knowledge and skills needed to thrive in the rapidly evolving world of blockchain technology and digital currencies. The project encompasses two main components:
 
