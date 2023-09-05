@@ -1,4 +1,0 @@
-# Exchanges
-
-## Resume
-

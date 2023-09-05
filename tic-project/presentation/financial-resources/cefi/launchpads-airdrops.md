@@ -1,4 +1,0 @@
-# Launchpads \(Airdrops\)
-
-## Resume
-

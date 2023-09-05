@@ -1,2 +1,0 @@
-# TRX AND TRC TOKEN
-

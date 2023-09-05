@@ -1,2 +1,0 @@
-# Huobi HECO Chain
-

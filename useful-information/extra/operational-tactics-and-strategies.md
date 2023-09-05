@@ -1,2 +1,0 @@
-# Operational Tactics and Strategies
-

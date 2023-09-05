@@ -1,2 +1,0 @@
-# Curiosities and Historical Facts
-
