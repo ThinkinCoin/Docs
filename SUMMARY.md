@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Think in Coin Project](README.md)
+* [Think in Coin](README.md)
+  * [Project Overview](readme/project-overview/README.md)
+    * [Significance](readme/project-overview/significance.md)
+    * [Purpose](readme/project-overview/purpose.md)
+    * [Project Objectives](readme/project-overview/project-objectives.md)
+    * [Scope](readme/project-overview/scope.md)
 
 ## Community / Social
 

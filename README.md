@@ -1,12 +1,6 @@
----
-description: This is all the documentation made available for the project.
----
-
-# Think in Coin Project
+# Think in Coin
 
 it is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage.
-
-> " With great power comes great responsibility" (Uncle Ben)
 
 ## **The Dream?**
 
@@ -19,5 +13,3 @@ THIS TIME IS OVER.
 Now you must be your own bank. Enjoy it.
 
 ![](.gitbook/assets/neurons.png)
-
-## \*\*\*\*
