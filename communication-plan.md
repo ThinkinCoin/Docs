@@ -1,11 +1,6 @@
 # Communication Plan
 
-###
-
 Effective communication among project stakeholders is vital for the success of "Think in Coin." The communication plan outlines how updates and information will be shared among team members, stakeholders, and users.
-
-\
-
 
 ### Stakeholders
 

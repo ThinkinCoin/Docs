@@ -1,10 +1,10 @@
-# Think in Coin
+# Getting Started
 
-it is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage.
+Think in Coin is a project that brings in its extreme simplicity a great power contained within you. He is yours. Belongs to you. All you need is to tame it and use it to your advantage.
 
 ## **The Dream?**
 
-FREEDOM, pure and full
+FREEDOM!
 
 The release of the bonds of an oppressive and corrupt financial system that has the indecency to dictate the rules of how and how much you can profit from your investments.
 
