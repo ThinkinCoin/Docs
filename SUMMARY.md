@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Getting Started](README.md)
-  * [Project Plan](project-plan/README.md)
-    * [Requirements](project-plan/requirements.md)
-    * [Objectives](project-plan/objectives.md)
-    * [Risks](project-plan/risks.md)
   * [Overview](readme/overview/README.md)
     * [Significance](readme/overview/significance.md)
     * [Purpose](readme/overview/purpose.md)
     * [Scope](readme/overview/scope.md)
+  * [Project Plan](project-plan/README.md)
+    * [Requirements](project-plan/requirements.md)
+    * [Objectives](project-plan/objectives.md)
+    * [Risks](project-plan/risks.md)
 * [Tokenomics](tokenomics.md)
 * [Stakeholders (TBD)](stakeholders-tbd.md)
 * [Architecture](architecture/README.md)
