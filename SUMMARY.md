@@ -9,6 +9,7 @@
     * [Significance](readme/overview/significance.md)
     * [Purpose](readme/overview/purpose.md)
     * [Scope](readme/overview/scope.md)
+* [Tokenomics](tokenomics.md)
 * [Stakeholders (TBD)](stakeholders-tbd.md)
 * [Architecture](architecture/README.md)
   * [Development](development/README.md)
