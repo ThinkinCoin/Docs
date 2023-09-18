@@ -35,6 +35,10 @@
 * [Github](community-social/github.md)
 * [Reddit](community-social/reddit.md)
 
+***
+
+* [LITEPAPER](litepaper.md)
+
 ## Wiki
 
 * [FAQ](wiki/faq.md)
