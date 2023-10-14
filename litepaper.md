@@ -34,7 +34,7 @@ Integration of Aragon, a decentralized autonomous organization (DAO) platform, t
 
 
 
-## [Project Objectives](readme/project-plan-roadmap/objectives.md)
+## [Project Objectives](project-plan/objectives.md)
 
 The main objective of Think in Coin is to provide an educational bridge between Web2 and Web3 by offering in-depth content about the crypto market, blockchains, technology, and policies. The project aims to empower individuals with the knowledge and tools to navigate the crypto universe confidently and competently.
 
@@ -42,11 +42,11 @@ The main objective of Think in Coin is to provide an educational bridge between 
 
 The project encompasses comprehensive courses in the Think in Coin Academy, meme token creation services, and a forthcoming platform, InvestGate, focused on offering insights into cryptocurrency projects.
 
-## [Project Plan](readme/project-plan-roadmap/)
+## [Project Plan](project-plan/)
 
 The project follows a phased approach involving development, testing, deployment, and ongoing maintenance. Each phase has defined tasks, timelines, and milestones to ensure a structured and efficient project execution.
 
-### [- Project Requirements](readme/project-plan-roadmap/requirements.md)
+### [- Project Requirements](project-plan/requirements.md)
 
 These encompass both functional and non-functional requirements, covering technical, design, and user aspects to ensure a seamless user experience and a robust system.
 
@@ -72,7 +72,7 @@ The technology stack includes technologies like React.js, Node.js, PostgreSQL, a
 
 Ongoing maintenance covers monitoring, updates, bug fixes, user support, and content updates. Plans for updates, bug fixes, and enhancements are outlined.
 
-## [Project Risks](readme/project-plan-roadmap/risks.md)
+## [Project Risks](project-plan/risks.md)
 
 Identified potential risks include security vulnerabilities, regulatory changes, scalability challenges, and user adoption issues. Corresponding risk mitigation strategies are in place.
 

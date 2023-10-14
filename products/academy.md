@@ -2,7 +2,7 @@
 
 The Academy is a comprehensive platform designed to provide users with an immersive learning experience in the domain of cryptocurrencies, blockchain, and decentralized finance (DeFi). The Academy leverages the power of educational technology to deliver high-quality courses and educational resources to both newcomers and experienced individuals in the crypto space.
 
-
+{% embed url="https://youtu.be/muOwVwlWta4" %}
 
 Key Features and Functionality:
 
@@ -45,9 +45,6 @@ I**nstructor Marketplace**: In the Think in Coin Academy, we offer an Instructor
 **Course Publication**: Instructors submit their courses for review and, upon approval, their courses are published in the Academy's course catalog.
 
 **Earnings and Payouts**: Instructors earn a percentage of the course fees for each enrollment, and payouts are processed according to the platform's payment policy.
-
-\
-
 
 The Instructor Marketplace not only offers a platform for seasoned experts to share their knowledge but also enriches the Academy's course offerings, providing a broader spectrum of educational content for learners.
 

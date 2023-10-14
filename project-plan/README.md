@@ -1,4 +1,4 @@
-# Project Plan
+# Project Plan (Roadmap)
 
 Below is a high-level project timeline outlining the project phases and major milestones for "Think in Coin." Please note that the specific durations and details may vary depending on the project's complexity and resources.
 
