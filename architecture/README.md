@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Architecture
 
 Our system architecture is designed to support the delivery of educational content, community engagement, and the meme token creation service. It consists of hardware and software components that work together to provide a seamless user experience.
