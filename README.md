@@ -1,6 +1,6 @@
 # Getting Started
 
-Think in Coin is a project that aims to bridge the gap, between Web2 and the exciting Web3 by using a language that everyone can understand. Our main focus is on providing in depth content about the market. We offer courses through the Think in Coin Academy, where you can learn everything about cryptocurrencies, blockchain technology, DeFi, tokenomics and more.
+{% embed url="https://youtu.be/R1spsfUqtA8" %}
 
 Our educational platform provides a learning experience with lessons progress tracking and certifications to help you enhance your knowledge and skills.
 
@@ -21,5 +21,3 @@ The release of the bonds of an oppressive and corrupt financial system that has 
 THIS TIME IS OVER.
 
 Now you must be your own bank. Enjoy it.
-
-![](.gitbook/assets/neurons.png)
