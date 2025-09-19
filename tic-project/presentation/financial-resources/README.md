@@ -1,4 +1,0 @@
-# Financial Resources
-
-## Resume
-

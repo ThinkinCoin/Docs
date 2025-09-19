@@ -1,4 +1,0 @@
-# Holders
-
-Browser Extension Wallets
-

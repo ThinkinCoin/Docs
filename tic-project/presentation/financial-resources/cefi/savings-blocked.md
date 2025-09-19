@@ -1,4 +1,0 @@
-# Savings blocked
-
-## Resume
-

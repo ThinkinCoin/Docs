@@ -1,4 +1,0 @@
-# Liquidity Provider
-
-## Resume
-

@@ -1,4 +1,0 @@
-# Screening
-
-## Resume
-

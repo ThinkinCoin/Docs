@@ -1,4 +1,0 @@
-# Arbitrage
-
-## Resume
-

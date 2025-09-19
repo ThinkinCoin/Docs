@@ -1,4 +1,0 @@
-# DEX
-
-## Resume
-
