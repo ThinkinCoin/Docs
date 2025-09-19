@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Products
 
 Think in Coin is dedicated to providing a comprehensive range of products and services to empower individuals and communities in the cryptocurrency space. Our product portfolio encompasses innovative solutions to enhance learning, engagement, creativity, and investment decision-making within the crypto universe.
